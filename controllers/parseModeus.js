@@ -10,7 +10,7 @@ const moment = require('moment');
 const userAgent = new UserAgent();
 
 const email = 'Alexey.Linkov@at.urfu.ru';
-const pass = 'Zoom-zoom1';
+const pass = '';
 
 async function parseOzon() {
   const Options = await new Chrome.Options();
