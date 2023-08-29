@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@notionhq/client": "^2.2.12",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "ics-to-json": "^1.0.0",
     "moment": "^2.29.4",
@@ -9,5 +10,8 @@
     "selenium-webdriver": "^4.11.1",
     "telegraf": "^4.12.2",
     "user-agents": "^1.0.1444"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
   }
 }
