@@ -1,107 +1,78 @@
-const {Builder, By, until } = require('selenium-webdriver');
-const UserAgent = require('user-agents');
-const Chrome = require('selenium-webdriver/chrome');
-const fs = require('fs');
-const path = require('path');
+const chedule = require('../res.json');
 
-/**
-* Класс считывает расписание пользователя.
-*/
 class ReaderChedule {
-    /**
-    * Конструктор присваивает значения полям класса.
-    * @param {string} email - Почта пользователя.
-    * @param {string} password - Пароль пользователя.
-    * @param {string} userId - UserId telegram.
-    * @param {string} cheduleFolderPath - Путь до папки загрузок
-    */
-    constructor(email, password, userId, cheduleFolderPath) {
-        this.email = email;
-        this.password = password;
-        this.userId = userId;
-        this.cheduleFolderPath = cheduleFolderPath;
-    }
+    constructor(chedule) {
+        this.chedule = chedule;
 
-    /**
-     * Метод парсит данные с https://urfu.modeus.org, по окончанию вызывает функцию saveFile.
-    */
-    async parser() {
-        const Options = await new Chrome.Options();
-        const userAgent = new UserAgent();
+        this.countSubjects = chedule._embedded.events.length;
+        this.countNamesSubjects = chedule._embedded['cycle-realizations'].length;
+        this.countLocations = chedule._embedded['event-locations'].length;
+        this.countEventRooms = chedule._embedded['event-rooms'].length;
+        this.countRooms = chedule._embedded['rooms'].length;
+    }   
 
-        await Options.addArguments(userAgent.toString())
-        await Options.excludeSwitches("enable-logging");
-        await Options.addArguments("--disable-blink-features=AutomationControlled");
+    reader() {    
+        for (let i = 0; i < this.countSubjects; i++) {
+            let subjectId = this.chedule._embedded.events[i]._links['cycle-realization'].href.replace('/','');
+            let eventId = this.chedule._embedded.events[i]._links.location.href.replace('/location','').replace('/', '');
 
-        try {
-            let driver = await new Builder()
-            .forBrowser('chrome')
-            .setChromeOptions(Options)
-            .setCapability('goog:loggingPrefs', { 'browser':'ALL' })
-            .build();
-
-            // тут добавить текущую неделю.
-            await driver.get("https://urfu.modeus.org/schedule-calendar/my?timeZone=%22Asia%2FYekaterinburg%22&calendar=%7B%22view%22:%22agendaWeek%22,%22date%22:%222023-05-22%22%7D&grid=%22Grid.07%22"); 
-            await driver.wait(until.elementLocated(By.css('input[type="email"]')), 2000).sendKeys(email);
-            await driver.wait(until.elementLocated(By.css('input[type="Password"]')), 2000).sendKeys(pass);
-            await driver.findElement(By.id('submitButton')).click();
+            let start = this.chedule._embedded.events[i].startsAtLocal;
+            let end = this.chedule._embedded.events[i].endsAtLocal;
 
            
-            await driver.wait(until.elementLocated(By.css('body')), 2000).click();
-            await driver.wait(until.elementLocated(By.className('icon-icalendar')), 2000).click();
+         
+            // Названия предметов
+            let nameSubject = this.chedule._embedded['cycle-realizations'].filter(item => {
+                return item.id === subjectId
+            });
 
-            setTimeout(() => {
-                driver.quit();
-                saveFile();
-            }, 6000)
+            // Разположение корпусов
+            let locationSubject = this.chedule._embedded['event-locations'].filter(item => {
+                return item.eventId === eventId
+            })
 
+
+            let location;
+
+            try {
+                let eventRooms = locationSubject[0]._links['event-rooms'].href.replace('/','');
+
+                let roomId = this.chedule._embedded['event-rooms'].filter(item => {
+                    return item.id === eventRooms;
+                });
+                
+                let room = roomId[0]._links.room.href.replace('/','');
+
+                let locationObject = this.chedule._embedded['rooms'].filter(item => {
+                    return item.id === room;
+                });
+
+                location = locationObject[0].name;
+            }
+            catch {
+                location = locationSubject[0].customLocation;
+            }
+            
+           
+
+            
+
+            // // Место нахождения и id event room
+            // for (let c = 0; c < this.countLocations; c++) {
+            //     let locationId = this.chedule._embedded['event-locations'][c].eventId;
+
+            //     if (eventId === locationId) {
+            //         locationSubject = this.chedule._embedded['event-locations'][c].customLocation;
+
+                    
+            //     }
+            // }
+
+            console.log(nameSubject[0].code + '\n' + location + '\n' +  start + '\n' +  end)
         }
-        catch(err) {
-            console.log(err);
-        }
-    }
 
-    /**
-     * Метод сохраняет полученные данные в файл.
-     */
-    saveFile() {
-        const icsfilePath = this.findFile();
-
-        copyFile(icsfilePath);
-        deleteFile(icsFilePath);
-    }
-
-    /**
-     * Метод ищет файл с расписанием в папке загрузок.
-     * @returns {string} Путь до файла с расписанием.
-     */
-    findFile() {
-        fs.readdir(this.chedulePath, (err, files) => {
-            if(err) throw err;
-
-            const icsFiles = files.filter(file => path.extname(file) === '.ics');
-            return `${this.cheduleFolderPath}/${icsFiles[0]}`;
-        })
-    }
-
-    
-    /**
-     * Метод копирует файл из папки загрузок в папку с рассписанием и переименовываенм его в user id
-     * @param {string} filePath - Путь до файла с расписанием.
-     */
-    copyFile(filePath) {
-        fs.copyFile(filePath, `../chedules/${this.userId}.ics`, err => {
-            if(err) throw err; 
-        });
-    }
-
-    /**
-     * Метод удаляет файл с расписанием в папке загрузок
-     * @param {string} filePath - Путь до файла с расписанием.
-     */
-    deleteFile(filePath) {
-        fs.unlink(filePath, (err) => {
-            if(err) throw err;
-        });
-    }
+    }   
 }
+
+let read = new ReaderChedule(chedule);
+read.reader()

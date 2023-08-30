@@ -1,10 +1,29 @@
-const ical = require('node-ical');
-const moment = require('moment');
+const fs = require('fs');
+const path = require('path');
 
-// use the sync function parseFile() to parse this ics file
-const events = ical.sync.parseFile('calendar.ics');
-// loop through events and log them
+function copyFile(filePath) {
+    fs.copyFile(filePath, `${process.cwd()}/chedules/${234123453}.ics`, err => {
+        if(err) throw err; 
+    });
+}
 
-for (const event of Object.values(events)) {   
-    console.log(moment(event.start, 'DD.MM.YY'));
-};
+copyFile('C:/Users/DNS/Downloads/2023-08-30 16-26 ModeusCalendar 22 мая—28 мая 15 events.ics')
+
+
+function findFile() {
+    return new Promise((resolve, reject) => {
+        fs.readdir('C:/Users/DNS/Downloads', (err, files) => {
+            if(err) throw err;
+
+            const icsFiles = files.filter(file => path.extname(file) === '.ics');
+
+            resolve(`${'C:/Users/DNS/Downloads'}/${icsFiles[0]}`)
+        })
+    })
+}
+
+// findFile().
+// then(res => {
+//     console.log(res)
+// })
+

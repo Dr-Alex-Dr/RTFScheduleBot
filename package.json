@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "@notionhq/client": "^2.2.12",
     "dotenv": "^16.3.1",
@@ -9,9 +12,12 @@
     "node-ical": "^0.16.1",
     "selenium-webdriver": "^4.11.1",
     "telegraf": "^4.12.2",
-    "user-agents": "^1.0.1444"
+    "top-user-agents": "^1.0.60",
+    "user-agents": "^0.0.2",
+    "useragent": "^2.3.0"
   },
   "devDependencies": {
+    "jest": "^29.6.4",
     "jsdoc": "^4.0.2"
   }
 }

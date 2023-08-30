@@ -10,6 +10,8 @@ const bot = new Telegraf(process.env.BOT_TOKEN);
 
 
 bot.command('start', (ctx) => {
+
+
     ctx.reply('user_id ' + ctx.message.chat.id);
 });
 
