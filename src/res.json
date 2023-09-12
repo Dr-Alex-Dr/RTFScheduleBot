@@ -2,84 +2,17 @@
     "_embedded": {
         "events": [
             {
-                "name": "Практическое занятие",
-                "nameShort": "Практическое занятие 30",
-                "description": null,
-                "typeId": "SEMI",
-                "formatId": null,
-                "start": "2023-05-25T12:00:00+05:00",
-                "end": "2023-05-25T13:30:00+05:00",
-                "startsAtLocal": "2023-05-25T12:00:00",
-                "endsAtLocal": "2023-05-25T13:30:00",
-                "startsAt": "2023-05-25T12:00:00",
-                "endsAt": "2023-05-25T13:30:00",
-                "holdingStatus": {
-                    "id": "HELD",
-                    "name": "Проведено",
-                    "audModifiedAt": "2023-05-25T09:00:00.341733",
-                    "audModifiedBy": null,
-                    "audModifiedBySystem": true
-                },
-                "userRoleIds": [
-                    "STUDENT"
-                ],
-                "lessonTemplateId": "f7749eac-487b-4709-8906-9c7d4a2cd8d9",
-                "__version": 75,
-                "_links": {
-                    "self": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5"
-                    },
-                    "type": {
-                        "href": "/SEMI"
-                    },
-                    "time-zone": {
-                        "href": "/Asia/Yekaterinburg"
-                    },
-                    "grid": {
-                        "href": "/Grid.07"
-                    },
-                    "course-unit-realization": {
-                        "href": "/8160273c-6d61-48de-a4ae-b2e04bc49f4b"
-                    },
-                    "cycle-realization": {
-                        "href": "/260091b0-96e1-42b2-ba80-d287aec41644"
-                    },
-                    "lesson-realization": {
-                        "href": "/1c296145-a3b2-453f-819e-756332f54347"
-                    },
-                    "lesson-realization-team": {
-                        "href": "/83adb6bf-deb8-40c5-af7b-518059d13700"
-                    },
-                    "lesson-realization-template": {
-                        "href": "/f7749eac-487b-4709-8906-9c7d4a2cd8d9"
-                    },
-                    "location": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5/location"
-                    },
-                    "duration": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5/duration"
-                    },
-                    "team": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5/team"
-                    },
-                    "organizers": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5/organizers"
-                    }
-                },
-                "id": "1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5"
-            },
-            {
-                "name": "Лекционное занятие 15",
-                "nameShort": "Лекционное занятие 43",
+                "name": "Лекционное занятие 14",
+                "nameShort": "Лекционное занятие 27",
                 "description": null,
                 "typeId": "LECT",
                 "formatId": "INFORMATION",
-                "start": "2023-05-23T12:00:00+05:00",
-                "end": "2023-05-23T13:30:00+05:00",
-                "startsAtLocal": "2023-05-23T12:00:00",
-                "endsAtLocal": "2023-05-23T13:30:00",
-                "startsAt": "2023-05-23T12:00:00",
-                "endsAt": "2023-05-23T13:30:00",
+                "start": "2023-05-15T14:15:00+05:00",
+                "end": "2023-05-15T15:45:00+05:00",
+                "startsAtLocal": "2023-05-15T14:15:00",
+                "endsAtLocal": "2023-05-15T15:45:00",
+                "startsAt": "2023-05-15T14:15:00",
+                "endsAt": "2023-05-15T15:45:00",
                 "holdingStatus": {
                     "id": "HELD",
                     "name": "Проведено",
@@ -90,11 +23,11 @@
                 "userRoleIds": [
                     "STUDENT"
                 ],
-                "lessonTemplateId": "5da9972a-df26-4f23-a9b6-b23e3d92fdbb",
-                "__version": 49,
+                "lessonTemplateId": "80593976-d7ce-4d6e-8a48-c69590c81904",
+                "__version": 44,
                 "_links": {
                     "self": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb"
                     },
                     "type": {
                         "href": "/LECT"
@@ -109,47 +42,47 @@
                         "href": "/Grid.07"
                     },
                     "course-unit-realization": {
-                        "href": "/489a00dd-23a7-4d22-8b39-d8f97de6dcb0"
+                        "href": "/ed43ce33-6910-4254-b436-33a92ca591ab"
                     },
                     "cycle-realization": {
-                        "href": "/01c96271-ca73-4b91-9ee5-841c1609f469"
+                        "href": "/1a2b5e76-ae50-412c-88c9-b86553073f62"
                     },
                     "lesson-realization": {
-                        "href": "/90ff65d3-36ab-4200-9f42-449b6d9ea75f"
+                        "href": "/232e2bce-197b-43bf-afe0-cee2cea26555"
                     },
                     "lesson-realization-team": {
-                        "href": "/17a0ff50-bef0-4338-ad9d-798376e4e09c"
+                        "href": "/17bbadec-6b44-4972-8fd9-5df36990e577"
                     },
                     "lesson-realization-template": {
-                        "href": "/5da9972a-df26-4f23-a9b6-b23e3d92fdbb"
+                        "href": "/80593976-d7ce-4d6e-8a48-c69590c81904"
                     },
                     "location": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960/location"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb/location"
                     },
                     "duration": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960/duration"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb/duration"
                     },
                     "team": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960/team"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb/team"
                     },
                     "organizers": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960/organizers"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb/organizers"
                     }
                 },
-                "id": "1bb01a0b-97ea-4c6a-942c-a82438bc6960"
+                "id": "114e867c-b8e1-4b5d-a640-625eadcafbcb"
             },
             {
-                "name": "Лабораторное занятие 29",
-                "nameShort": "Лабораторное занятие 29",
+                "name": "Практическое занятие 14",
+                "nameShort": "Практическое занятие 28",
                 "description": null,
-                "typeId": "LAB",
-                "formatId": null,
-                "start": "2023-05-23T17:40:00+05:00",
-                "end": "2023-05-23T19:10:00+05:00",
-                "startsAtLocal": "2023-05-23T17:40:00",
-                "endsAtLocal": "2023-05-23T19:10:00",
-                "startsAt": "2023-05-23T17:40:00",
-                "endsAt": "2023-05-23T19:10:00",
+                "typeId": "SEMI",
+                "formatId": "SEMINAR",
+                "start": "2023-05-16T16:00:00+05:00",
+                "end": "2023-05-16T17:30:00+05:00",
+                "startsAtLocal": "2023-05-16T16:00:00",
+                "endsAtLocal": "2023-05-16T17:30:00",
+                "startsAt": "2023-05-16T16:00:00",
+                "endsAt": "2023-05-16T17:30:00",
                 "holdingStatus": {
                     "id": "HELD",
                     "name": "Проведено",
@@ -160,11 +93,81 @@
                 "userRoleIds": [
                     "STUDENT"
                 ],
-                "lessonTemplateId": "104bfae0-7b0e-4e20-ba25-4052619770b6",
+                "lessonTemplateId": "927463a0-36e3-451c-a0ff-9b26261c7d84",
+                "__version": 44,
+                "_links": {
+                    "self": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
+                    },
+                    "type": {
+                        "href": "/SEMI"
+                    },
+                    "format": {
+                        "href": "/SEMINAR"
+                    },
+                    "time-zone": {
+                        "href": "/Asia/Yekaterinburg"
+                    },
+                    "grid": {
+                        "href": "/Grid.07"
+                    },
+                    "course-unit-realization": {
+                        "href": "/ed43ce33-6910-4254-b436-33a92ca591ab"
+                    },
+                    "cycle-realization": {
+                        "href": "/1a2b5e76-ae50-412c-88c9-b86553073f62"
+                    },
+                    "lesson-realization": {
+                        "href": "/1effc49f-0736-448d-9616-1b8afc5ec886"
+                    },
+                    "lesson-realization-team": {
+                        "href": "/17bbadec-6b44-4972-8fd9-5df36990e577"
+                    },
+                    "lesson-realization-template": {
+                        "href": "/927463a0-36e3-451c-a0ff-9b26261c7d84"
+                    },
+                    "location": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003/location"
+                    },
+                    "duration": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003/duration"
+                    },
+                    "team": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003/team"
+                    },
+                    "organizers": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003/organizers"
+                    }
+                },
+                "id": "23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
+            },
+            {
+                "name": "Лабораторное занятие 27",
+                "nameShort": "Лабораторное занятие 27",
+                "description": null,
+                "typeId": "LAB",
+                "formatId": null,
+                "start": "2023-05-16T17:40:00+05:00",
+                "end": "2023-05-16T19:10:00+05:00",
+                "startsAtLocal": "2023-05-16T17:40:00",
+                "endsAtLocal": "2023-05-16T19:10:00",
+                "startsAt": "2023-05-16T17:40:00",
+                "endsAt": "2023-05-16T19:10:00",
+                "holdingStatus": {
+                    "id": "HELD",
+                    "name": "Проведено",
+                    "audModifiedAt": null,
+                    "audModifiedBy": null,
+                    "audModifiedBySystem": true
+                },
+                "userRoleIds": [
+                    "STUDENT"
+                ],
+                "lessonTemplateId": "827cb7a5-9938-4826-bf12-b673cba946ed",
                 "__version": 9,
                 "_links": {
                     "self": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d"
                     },
                     "type": {
                         "href": "/LAB"
@@ -182,56 +185,257 @@
                         "href": "/4f1ac8c0-c360-46d3-9d41-63189fa0440c"
                     },
                     "lesson-realization": {
-                        "href": "/6026fbca-6e58-489d-9d85-9e5e8c19cbdd"
+                        "href": "/3c5fbe24-7955-45d3-bb67-f8fcd1662299"
                     },
                     "lesson-realization-team": {
                         "href": "/a9016185-04d1-4fb4-892e-cf3edcb3643d"
                     },
                     "lesson-realization-template": {
-                        "href": "/104bfae0-7b0e-4e20-ba25-4052619770b6"
+                        "href": "/827cb7a5-9938-4826-bf12-b673cba946ed"
                     },
                     "location": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71/location"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d/location"
                     },
                     "duration": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71/duration"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d/duration"
                     },
                     "team": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71/team"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d/team"
                     },
                     "organizers": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71/organizers"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d/organizers"
                     }
                 },
-                "id": "1e3c6470-f96a-4bf7-86fc-76d3f9733c71"
+                "id": "3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d"
             },
             {
-                "name": "Онлайн-курс",
-                "nameShort": "Лекционное занятие 15",
+                "name": "Практическое занятие",
+                "nameShort": "Практическое занятие 27",
                 "description": null,
-                "typeId": "LECT",
+                "typeId": "SEMI",
                 "formatId": null,
-                "start": "2023-05-24T06:50:00+05:00",
-                "end": "2023-05-24T07:35:00+05:00",
-                "startsAtLocal": "2023-05-24T06:50:00",
-                "endsAtLocal": "2023-05-24T07:35:00",
-                "startsAt": "2023-05-24T06:50:00",
-                "endsAt": "2023-05-24T07:35:00",
+                "start": "2023-05-16T10:15:00+05:00",
+                "end": "2023-05-16T11:45:00+05:00",
+                "startsAtLocal": "2023-05-16T10:15:00",
+                "endsAtLocal": "2023-05-16T11:45:00",
+                "startsAt": "2023-05-16T10:15:00",
+                "endsAt": "2023-05-16T11:45:00",
                 "holdingStatus": {
                     "id": "HELD",
                     "name": "Проведено",
-                    "audModifiedAt": "2023-05-24T03:00:00.42067",
+                    "audModifiedAt": null,
                     "audModifiedBy": null,
                     "audModifiedBySystem": true
                 },
                 "userRoleIds": [
                     "STUDENT"
                 ],
-                "lessonTemplateId": "0f2eceee-b3a5-462c-a8e3-f6cdf9f87271",
-                "__version": 537,
+                "lessonTemplateId": "1aadf8b8-d366-40a0-87ca-d52875c68805",
+                "__version": 76,
                 "_links": {
                     "self": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513"
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17"
+                    },
+                    "type": {
+                        "href": "/SEMI"
+                    },
+                    "time-zone": {
+                        "href": "/Asia/Yekaterinburg"
+                    },
+                    "grid": {
+                        "href": "/Grid.07"
+                    },
+                    "course-unit-realization": {
+                        "href": "/8160273c-6d61-48de-a4ae-b2e04bc49f4b"
+                    },
+                    "cycle-realization": {
+                        "href": "/260091b0-96e1-42b2-ba80-d287aec41644"
+                    },
+                    "lesson-realization": {
+                        "href": "/4d6c8489-facc-4dbc-8861-c374a3c40735"
+                    },
+                    "lesson-realization-team": {
+                        "href": "/83adb6bf-deb8-40c5-af7b-518059d13700"
+                    },
+                    "lesson-realization-template": {
+                        "href": "/1aadf8b8-d366-40a0-87ca-d52875c68805"
+                    },
+                    "location": {
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17/location"
+                    },
+                    "duration": {
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17/duration"
+                    },
+                    "team": {
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17/team"
+                    },
+                    "organizers": {
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17/organizers"
+                    }
+                },
+                "id": "4c7c6069-e0f6-4b61-a4c8-ee28b4205e17"
+            },
+            {
+                "name": "Практическое занятие",
+                "nameShort": "Практическое занятие 28",
+                "description": null,
+                "typeId": "SEMI",
+                "formatId": null,
+                "start": "2023-05-18T12:00:00+05:00",
+                "end": "2023-05-18T13:30:00+05:00",
+                "startsAtLocal": "2023-05-18T12:00:00",
+                "endsAtLocal": "2023-05-18T13:30:00",
+                "startsAt": "2023-05-18T12:00:00",
+                "endsAt": "2023-05-18T13:30:00",
+                "holdingStatus": {
+                    "id": "HELD",
+                    "name": "Проведено",
+                    "audModifiedAt": null,
+                    "audModifiedBy": null,
+                    "audModifiedBySystem": true
+                },
+                "userRoleIds": [
+                    "STUDENT"
+                ],
+                "lessonTemplateId": "9c3a13b3-1753-481d-a418-f40151aa86c3",
+                "__version": 77,
+                "_links": {
+                    "self": {
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1"
+                    },
+                    "type": {
+                        "href": "/SEMI"
+                    },
+                    "time-zone": {
+                        "href": "/Asia/Yekaterinburg"
+                    },
+                    "grid": {
+                        "href": "/Grid.07"
+                    },
+                    "course-unit-realization": {
+                        "href": "/8160273c-6d61-48de-a4ae-b2e04bc49f4b"
+                    },
+                    "cycle-realization": {
+                        "href": "/260091b0-96e1-42b2-ba80-d287aec41644"
+                    },
+                    "lesson-realization": {
+                        "href": "/93362ff4-0350-4163-b322-0afc47470930"
+                    },
+                    "lesson-realization-team": {
+                        "href": "/83adb6bf-deb8-40c5-af7b-518059d13700"
+                    },
+                    "lesson-realization-template": {
+                        "href": "/9c3a13b3-1753-481d-a418-f40151aa86c3"
+                    },
+                    "location": {
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1/location"
+                    },
+                    "duration": {
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1/duration"
+                    },
+                    "team": {
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1/team"
+                    },
+                    "organizers": {
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1/organizers"
+                    }
+                },
+                "id": "534ada80-259a-4c49-9c8a-5e2d9ae060f1"
+            },
+            {
+                "name": "Практическое занятие",
+                "nameShort": "Практическое занятие 27",
+                "description": null,
+                "typeId": "SEMI",
+                "formatId": null,
+                "start": "2023-05-17T12:00:00+05:00",
+                "end": "2023-05-17T13:30:00+05:00",
+                "startsAtLocal": "2023-05-17T12:00:00",
+                "endsAtLocal": "2023-05-17T13:30:00",
+                "startsAt": "2023-05-17T12:00:00",
+                "endsAt": "2023-05-17T13:30:00",
+                "holdingStatus": {
+                    "id": "HELD",
+                    "name": "Проведено",
+                    "audModifiedAt": "2023-05-17T09:00:00.257385",
+                    "audModifiedBy": null,
+                    "audModifiedBySystem": true
+                },
+                "userRoleIds": [
+                    "STUDENT"
+                ],
+                "lessonTemplateId": "1071b990-bd70-45c7-b8b6-44474657d3ad",
+                "__version": 4,
+                "_links": {
+                    "self": {
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e"
+                    },
+                    "type": {
+                        "href": "/SEMI"
+                    },
+                    "time-zone": {
+                        "href": "/Asia/Yekaterinburg"
+                    },
+                    "grid": {
+                        "href": "/Grid.07"
+                    },
+                    "course-unit-realization": {
+                        "href": "/7796db39-5a6e-4d74-9fa3-7fa563662e0a"
+                    },
+                    "cycle-realization": {
+                        "href": "/88a54b2b-5a73-458d-9fc6-6b3951584a00"
+                    },
+                    "lesson-realization": {
+                        "href": "/d7a302e5-a6c5-4b66-9918-98e2e563dab0"
+                    },
+                    "lesson-realization-team": {
+                        "href": "/d7419fcf-8ed2-4e8a-804a-931ca0c5b040"
+                    },
+                    "lesson-realization-template": {
+                        "href": "/1071b990-bd70-45c7-b8b6-44474657d3ad"
+                    },
+                    "location": {
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e/location"
+                    },
+                    "duration": {
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e/duration"
+                    },
+                    "team": {
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e/team"
+                    },
+                    "organizers": {
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e/organizers"
+                    }
+                },
+                "id": "56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e"
+            },
+            {
+                "name": "Онлайн-курс",
+                "nameShort": "Лекционное занятие 14",
+                "description": null,
+                "typeId": "LECT",
+                "formatId": null,
+                "start": "2023-05-17T06:50:00+05:00",
+                "end": "2023-05-17T07:35:00+05:00",
+                "startsAtLocal": "2023-05-17T06:50:00",
+                "endsAtLocal": "2023-05-17T07:35:00",
+                "startsAt": "2023-05-17T06:50:00",
+                "endsAt": "2023-05-17T07:35:00",
+                "holdingStatus": {
+                    "id": "HELD",
+                    "name": "Проведено",
+                    "audModifiedAt": null,
+                    "audModifiedBy": null,
+                    "audModifiedBySystem": true
+                },
+                "userRoleIds": [
+                    "STUDENT"
+                ],
+                "lessonTemplateId": "0b261f9b-516d-4a32-9001-ae7645f485fb",
+                "__version": 538,
+                "_links": {
+                    "self": {
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2"
                     },
                     "type": {
                         "href": "/LECT"
@@ -249,41 +453,41 @@
                         "href": "/3da62244-486a-4784-9abe-554160ee4bbd"
                     },
                     "lesson-realization": {
-                        "href": "/647bd5f4-5587-43f8-8d96-07b48b5a9b8c"
+                        "href": "/b409bc7a-bc7e-4059-b94c-85b45862c197"
                     },
                     "lesson-realization-team": {
                         "href": "/3d909427-fbc1-4769-bdfd-5fbfd357df5e"
                     },
                     "lesson-realization-template": {
-                        "href": "/0f2eceee-b3a5-462c-a8e3-f6cdf9f87271"
+                        "href": "/0b261f9b-516d-4a32-9001-ae7645f485fb"
                     },
                     "location": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513/location"
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2/location"
                     },
                     "duration": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513/duration"
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2/duration"
                     },
                     "team": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513/team"
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2/team"
                     },
                     "organizers": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513/organizers"
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2/organizers"
                     }
                 },
-                "id": "3539e232-cb09-45fa-9396-e2dbd7f82513"
+                "id": "5944f4db-17f5-42e9-9806-d0cbf26bf4a2"
             },
             {
-                "name": "Лекционное занятие 15",
-                "nameShort": "Лекционное занятие 29",
+                "name": "Практическое занятие 28",
+                "nameShort": "Практическое занятие 42",
                 "description": null,
-                "typeId": "LECT",
-                "formatId": "INFORMATION",
-                "start": "2023-05-22T14:15:00+05:00",
-                "end": "2023-05-22T15:45:00+05:00",
-                "startsAtLocal": "2023-05-22T14:15:00",
-                "endsAtLocal": "2023-05-22T15:45:00",
-                "startsAt": "2023-05-22T14:15:00",
-                "endsAt": "2023-05-22T15:45:00",
+                "typeId": "SEMI",
+                "formatId": "SEMINAR",
+                "start": "2023-05-17T10:15:00+05:00",
+                "end": "2023-05-17T11:45:00+05:00",
+                "startsAtLocal": "2023-05-17T10:15:00",
+                "endsAtLocal": "2023-05-17T11:45:00",
+                "startsAt": "2023-05-17T10:15:00",
+                "endsAt": "2023-05-17T11:45:00",
                 "holdingStatus": {
                     "id": "HELD",
                     "name": "Проведено",
@@ -294,85 +498,18 @@
                 "userRoleIds": [
                     "STUDENT"
                 ],
-                "lessonTemplateId": "7e6a4393-73b0-4b37-bccb-d165a139c0dc",
-                "__version": 44,
+                "lessonTemplateId": "c0deff58-a4ea-4b83-8dc5-00b3680fb3c1",
+                "__version": 49,
                 "_links": {
                     "self": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2"
-                    },
-                    "type": {
-                        "href": "/LECT"
-                    },
-                    "format": {
-                        "href": "/INFORMATION"
-                    },
-                    "time-zone": {
-                        "href": "/Asia/Yekaterinburg"
-                    },
-                    "grid": {
-                        "href": "/Grid.07"
-                    },
-                    "course-unit-realization": {
-                        "href": "/ed43ce33-6910-4254-b436-33a92ca591ab"
-                    },
-                    "cycle-realization": {
-                        "href": "/1a2b5e76-ae50-412c-88c9-b86553073f62"
-                    },
-                    "lesson-realization": {
-                        "href": "/d0ba3d6f-9a86-46f7-98b7-4079261a5d91"
-                    },
-                    "lesson-realization-team": {
-                        "href": "/17bbadec-6b44-4972-8fd9-5df36990e577"
-                    },
-                    "lesson-realization-template": {
-                        "href": "/7e6a4393-73b0-4b37-bccb-d165a139c0dc"
-                    },
-                    "location": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2/location"
-                    },
-                    "duration": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2/duration"
-                    },
-                    "team": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2/team"
-                    },
-                    "organizers": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2/organizers"
-                    }
-                },
-                "id": "543b481a-dca5-46e4-bf02-f4434c54a5d2"
-            },
-            {
-                "name": "практическое занятие 8",
-                "nameShort": "Практическое занятие 16",
-                "description": null,
-                "typeId": "SEMI",
-                "formatId": null,
-                "start": "2023-05-25T08:30:00+05:00",
-                "end": "2023-05-25T11:45:00+05:00",
-                "startsAtLocal": "2023-05-25T08:30:00",
-                "endsAtLocal": "2023-05-25T11:45:00",
-                "startsAt": "2023-05-25T08:30:00",
-                "endsAt": "2023-05-25T11:45:00",
-                "holdingStatus": {
-                    "id": "HELD",
-                    "name": "Проведено",
-                    "audModifiedAt": "2023-05-25T07:00:00.340901",
-                    "audModifiedBy": null,
-                    "audModifiedBySystem": true
-                },
-                "userRoleIds": [
-                    "STUDENT"
-                ],
-                "lessonTemplateId": "25e7e769-9e6b-4985-91eb-47239a0e6b1d",
-                "__version": 30,
-                "_links": {
-                    "self": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0"
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0"
                     },
                     "type": {
                         "href": "/SEMI"
                     },
+                    "format": {
+                        "href": "/SEMINAR"
+                    },
                     "time-zone": {
                         "href": "/Asia/Yekaterinburg"
                     },
@@ -380,62 +517,62 @@
                         "href": "/Grid.07"
                     },
                     "course-unit-realization": {
-                        "href": "/8d6be679-15da-46a2-a35d-872fd7aff061"
+                        "href": "/489a00dd-23a7-4d22-8b39-d8f97de6dcb0"
                     },
                     "cycle-realization": {
-                        "href": "/1354b5ba-e5a0-4f88-9cb8-b16433ee8a3c"
+                        "href": "/01c96271-ca73-4b91-9ee5-841c1609f469"
                     },
                     "lesson-realization": {
-                        "href": "/63cb859e-1c0d-4e89-b7cd-b1fd1ac4efa4"
+                        "href": "/8190d57e-8aa9-45e4-b222-d290bc5cae9a"
                     },
                     "lesson-realization-team": {
-                        "href": "/2791d50a-31ea-4de4-ba43-b80621e9aa4e"
+                        "href": "/17a0ff50-bef0-4338-ad9d-798376e4e09c"
                     },
                     "lesson-realization-template": {
-                        "href": "/25e7e769-9e6b-4985-91eb-47239a0e6b1d"
+                        "href": "/c0deff58-a4ea-4b83-8dc5-00b3680fb3c1"
                     },
                     "location": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0/location"
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0/location"
                     },
                     "duration": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0/duration"
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0/duration"
                     },
                     "team": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0/team"
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0/team"
                     },
                     "organizers": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0/organizers"
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0/organizers"
                     }
                 },
-                "id": "70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0"
+                "id": "8a73eaf2-191a-4125-9566-1b9c1593c6c0"
             },
             {
                 "name": "Самостоятельная работа на онлайн-платформе",
-                "nameShort": "Самостоятельная работа 30",
+                "nameShort": "Самостоятельная работа 28",
                 "description": null,
                 "typeId": "SELF",
                 "formatId": null,
-                "start": "2023-05-24T20:50:00+05:00",
-                "end": "2023-05-24T22:20:00+05:00",
-                "startsAtLocal": "2023-05-24T20:50:00",
-                "endsAtLocal": "2023-05-24T22:20:00",
-                "startsAt": "2023-05-24T20:50:00",
-                "endsAt": "2023-05-24T22:20:00",
+                "start": "2023-05-17T20:50:00+05:00",
+                "end": "2023-05-17T22:20:00+05:00",
+                "startsAtLocal": "2023-05-17T20:50:00",
+                "endsAtLocal": "2023-05-17T22:20:00",
+                "startsAt": "2023-05-17T20:50:00",
+                "endsAt": "2023-05-17T22:20:00",
                 "holdingStatus": {
                     "id": "HELD",
                     "name": "Проведено",
-                    "audModifiedAt": "2023-05-24T18:00:00.174373",
+                    "audModifiedAt": "2023-05-17T18:00:00.246362",
                     "audModifiedBy": null,
                     "audModifiedBySystem": true
                 },
                 "userRoleIds": [
                     "STUDENT"
                 ],
-                "lessonTemplateId": "79151253-40d6-4166-834c-abf36173872a",
+                "lessonTemplateId": "7082931a-c577-4932-b3b4-260548ff4b53",
                 "__version": 4,
                 "_links": {
                     "self": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e"
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4"
                     },
                     "type": {
                         "href": "/SELF"
@@ -453,41 +590,41 @@
                         "href": "/88a54b2b-5a73-458d-9fc6-6b3951584a00"
                     },
                     "lesson-realization": {
-                        "href": "/ebef52a5-2cb9-4d15-841a-9861d1333e2e"
+                        "href": "/1f7b922e-7994-44fb-ae84-bc49f37c9721"
                     },
                     "lesson-realization-team": {
                         "href": "/d7419fcf-8ed2-4e8a-804a-931ca0c5b040"
                     },
                     "lesson-realization-template": {
-                        "href": "/79151253-40d6-4166-834c-abf36173872a"
+                        "href": "/7082931a-c577-4932-b3b4-260548ff4b53"
                     },
                     "location": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e/location"
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4/location"
                     },
                     "duration": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e/duration"
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4/duration"
                     },
                     "team": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e/team"
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4/team"
                     },
                     "organizers": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e/organizers"
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4/organizers"
                     }
                 },
-                "id": "71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e"
+                "id": "9bc277ab-63b5-49e1-b270-4c0f0f0d93a4"
             },
             {
-                "name": "Лабораторное занятие 30",
-                "nameShort": "Лабораторное занятие 30",
+                "name": "Лабораторное занятие 28",
+                "nameShort": "Лабораторное занятие 28",
                 "description": null,
                 "typeId": "LAB",
                 "formatId": null,
-                "start": "2023-05-23T19:15:00+05:00",
-                "end": "2023-05-23T20:45:00+05:00",
-                "startsAtLocal": "2023-05-23T19:15:00",
-                "endsAtLocal": "2023-05-23T20:45:00",
-                "startsAt": "2023-05-23T19:15:00",
-                "endsAt": "2023-05-23T20:45:00",
+                "start": "2023-05-16T19:15:00+05:00",
+                "end": "2023-05-16T20:45:00+05:00",
+                "startsAtLocal": "2023-05-16T19:15:00",
+                "endsAtLocal": "2023-05-16T20:45:00",
+                "startsAt": "2023-05-16T19:15:00",
+                "endsAt": "2023-05-16T20:45:00",
                 "holdingStatus": {
                     "id": "HELD",
                     "name": "Проведено",
@@ -498,11 +635,11 @@
                 "userRoleIds": [
                     "STUDENT"
                 ],
-                "lessonTemplateId": "6868894a-8201-4012-8a4a-3a12eaa1969e",
+                "lessonTemplateId": "621e9637-f6ab-4dd7-b225-3de3944312ab",
                 "__version": 9,
                 "_links": {
                     "self": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f"
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500"
                     },
                     "type": {
                         "href": "/LAB"
@@ -520,41 +657,41 @@
                         "href": "/4f1ac8c0-c360-46d3-9d41-63189fa0440c"
                     },
                     "lesson-realization": {
-                        "href": "/8a8236b2-2fd4-43a9-a265-80553bf066a1"
+                        "href": "/589d30cd-dd15-4e3d-a166-adde73e48fa9"
                     },
                     "lesson-realization-team": {
                         "href": "/a9016185-04d1-4fb4-892e-cf3edcb3643d"
                     },
                     "lesson-realization-template": {
-                        "href": "/6868894a-8201-4012-8a4a-3a12eaa1969e"
+                        "href": "/621e9637-f6ab-4dd7-b225-3de3944312ab"
                     },
                     "location": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f/location"
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500/location"
                     },
                     "duration": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f/duration"
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500/duration"
                     },
                     "team": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f/team"
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500/team"
                     },
                     "organizers": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f/organizers"
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500/organizers"
                     }
                 },
-                "id": "7e59c436-2cd0-408d-bbef-12148d2c7f4f"
+                "id": "b42b6634-549b-479e-a3af-fac17b11b500"
             },
             {
-                "name": "Что еще необходимо инженеру?",
-                "nameShort": "Лекционное занятие 15",
+                "name": "Лекционное занятие 14",
+                "nameShort": "Лекционное занятие 40",
                 "description": null,
                 "typeId": "LECT",
-                "formatId": null,
-                "start": "2023-05-24T19:15:00+05:00",
-                "end": "2023-05-24T20:45:00+05:00",
-                "startsAtLocal": "2023-05-24T19:15:00",
-                "endsAtLocal": "2023-05-24T20:45:00",
-                "startsAt": "2023-05-24T19:15:00",
-                "endsAt": "2023-05-24T20:45:00",
+                "formatId": "INFORMATION",
+                "start": "2023-05-16T12:00:00+05:00",
+                "end": "2023-05-16T13:30:00+05:00",
+                "startsAtLocal": "2023-05-16T12:00:00",
+                "endsAtLocal": "2023-05-16T13:30:00",
+                "startsAt": "2023-05-16T12:00:00",
+                "endsAt": "2023-05-16T13:30:00",
                 "holdingStatus": {
                     "id": "HELD",
                     "name": "Проведено",
@@ -565,84 +702,17 @@
                 "userRoleIds": [
                     "STUDENT"
                 ],
-                "lessonTemplateId": "142db6d2-fe6b-4656-b991-068f4a998ce6",
-                "__version": 493,
+                "lessonTemplateId": "5e883590-b841-4453-a353-7df3f645e572",
+                "__version": 49,
                 "_links": {
                     "self": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424"
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58"
                     },
                     "type": {
                         "href": "/LECT"
                     },
-                    "time-zone": {
-                        "href": "/Asia/Yekaterinburg"
-                    },
-                    "grid": {
-                        "href": "/Grid.07"
-                    },
-                    "course-unit-realization": {
-                        "href": "/8d6be679-15da-46a2-a35d-872fd7aff061"
-                    },
-                    "cycle-realization": {
-                        "href": "/573f9d70-0c51-41fd-986e-c93e7fa7f225"
-                    },
-                    "lesson-realization": {
-                        "href": "/ddbddc34-714d-4422-bc13-eb56f9c9df99"
-                    },
-                    "lesson-realization-team": {
-                        "href": "/43ff1f85-e91e-4352-8fe0-7e3d0e313021"
-                    },
-                    "lesson-realization-template": {
-                        "href": "/142db6d2-fe6b-4656-b991-068f4a998ce6"
-                    },
-                    "location": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424/location"
-                    },
-                    "duration": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424/duration"
-                    },
-                    "team": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424/team"
-                    },
-                    "organizers": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424/organizers"
-                    }
-                },
-                "id": "897ca9dd-e107-4020-a682-fa480b21a424"
-            },
-            {
-                "name": "Практическое занятие 30",
-                "nameShort": "Практическое занятие 45",
-                "description": null,
-                "typeId": "SEMI",
-                "formatId": "SEMINAR",
-                "start": "2023-05-24T10:15:00+05:00",
-                "end": "2023-05-24T11:45:00+05:00",
-                "startsAtLocal": "2023-05-24T10:15:00",
-                "endsAtLocal": "2023-05-24T11:45:00",
-                "startsAt": "2023-05-24T10:15:00",
-                "endsAt": "2023-05-24T11:45:00",
-                "holdingStatus": {
-                    "id": "HELD",
-                    "name": "Проведено",
-                    "audModifiedAt": "2023-05-24T07:00:00.439784",
-                    "audModifiedBy": null,
-                    "audModifiedBySystem": true
-                },
-                "userRoleIds": [
-                    "STUDENT"
-                ],
-                "lessonTemplateId": "1b6cfbf0-592a-49d1-a4e4-7ce97a08c35b",
-                "__version": 47,
-                "_links": {
-                    "self": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
-                    },
-                    "type": {
-                        "href": "/SEMI"
-                    },
                     "format": {
-                        "href": "/SEMINAR"
+                        "href": "/INFORMATION"
                     },
                     "time-zone": {
                         "href": "/Asia/Yekaterinburg"
@@ -657,330 +727,56 @@
                         "href": "/01c96271-ca73-4b91-9ee5-841c1609f469"
                     },
                     "lesson-realization": {
-                        "href": "/63b96c9f-5957-495c-8e52-169a9eb3fca9"
+                        "href": "/f3b45d30-5b82-4b65-960a-ad625d118b69"
                     },
                     "lesson-realization-team": {
                         "href": "/17a0ff50-bef0-4338-ad9d-798376e4e09c"
                     },
                     "lesson-realization-template": {
-                        "href": "/1b6cfbf0-592a-49d1-a4e4-7ce97a08c35b"
+                        "href": "/5e883590-b841-4453-a353-7df3f645e572"
                     },
                     "location": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724/location"
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58/location"
                     },
                     "duration": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724/duration"
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58/duration"
                     },
                     "team": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724/team"
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58/team"
                     },
                     "organizers": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724/organizers"
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58/organizers"
                     }
                 },
-                "id": "9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
-            },
-            {
-                "name": "Практическое занятие",
-                "nameShort": "Практическое занятие 29",
-                "description": null,
-                "typeId": "SEMI",
-                "formatId": null,
-                "start": "2023-05-24T12:00:00+05:00",
-                "end": "2023-05-24T13:30:00+05:00",
-                "startsAtLocal": "2023-05-24T12:00:00",
-                "endsAtLocal": "2023-05-24T13:30:00",
-                "startsAt": "2023-05-24T12:00:00",
-                "endsAt": "2023-05-24T13:30:00",
-                "holdingStatus": {
-                    "id": "HELD",
-                    "name": "Проведено",
-                    "audModifiedAt": "2023-05-24T09:00:00.430967",
-                    "audModifiedBy": null,
-                    "audModifiedBySystem": true
-                },
-                "userRoleIds": [
-                    "STUDENT"
-                ],
-                "lessonTemplateId": "eb99898c-3588-430b-af46-13baab0a52a5",
-                "__version": 4,
-                "_links": {
-                    "self": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59"
-                    },
-                    "type": {
-                        "href": "/SEMI"
-                    },
-                    "time-zone": {
-                        "href": "/Asia/Yekaterinburg"
-                    },
-                    "grid": {
-                        "href": "/Grid.07"
-                    },
-                    "course-unit-realization": {
-                        "href": "/7796db39-5a6e-4d74-9fa3-7fa563662e0a"
-                    },
-                    "cycle-realization": {
-                        "href": "/88a54b2b-5a73-458d-9fc6-6b3951584a00"
-                    },
-                    "lesson-realization": {
-                        "href": "/5589c451-0021-4722-810f-74ba8183c9e1"
-                    },
-                    "lesson-realization-team": {
-                        "href": "/d7419fcf-8ed2-4e8a-804a-931ca0c5b040"
-                    },
-                    "lesson-realization-template": {
-                        "href": "/eb99898c-3588-430b-af46-13baab0a52a5"
-                    },
-                    "location": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59/location"
-                    },
-                    "duration": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59/duration"
-                    },
-                    "team": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59/team"
-                    },
-                    "organizers": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59/organizers"
-                    }
-                },
-                "id": "b87c1977-09be-4649-ae5b-396a197a0e59"
-            },
-            {
-                "name": "Практическое занятие 29",
-                "nameShort": "Практическое занятие 44",
-                "description": null,
-                "typeId": "SEMI",
-                "formatId": "SEMINAR",
-                "start": "2023-05-24T08:30:00+05:00",
-                "end": "2023-05-24T10:00:00+05:00",
-                "startsAtLocal": "2023-05-24T08:30:00",
-                "endsAtLocal": "2023-05-24T10:00:00",
-                "startsAt": "2023-05-24T08:30:00",
-                "endsAt": "2023-05-24T10:00:00",
-                "holdingStatus": {
-                    "id": "HELD",
-                    "name": "Проведено",
-                    "audModifiedAt": "2023-05-24T06:00:00.376849",
-                    "audModifiedBy": null,
-                    "audModifiedBySystem": true
-                },
-                "userRoleIds": [
-                    "STUDENT"
-                ],
-                "lessonTemplateId": "f6adbcb5-5bd4-4bd8-916f-9c2d98199bfc",
-                "__version": 47,
-                "_links": {
-                    "self": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
-                    },
-                    "type": {
-                        "href": "/SEMI"
-                    },
-                    "format": {
-                        "href": "/SEMINAR"
-                    },
-                    "time-zone": {
-                        "href": "/Asia/Yekaterinburg"
-                    },
-                    "grid": {
-                        "href": "/Grid.07"
-                    },
-                    "course-unit-realization": {
-                        "href": "/489a00dd-23a7-4d22-8b39-d8f97de6dcb0"
-                    },
-                    "cycle-realization": {
-                        "href": "/01c96271-ca73-4b91-9ee5-841c1609f469"
-                    },
-                    "lesson-realization": {
-                        "href": "/a3df5a05-b59f-4406-a9ba-28ddc97d1ded"
-                    },
-                    "lesson-realization-team": {
-                        "href": "/17a0ff50-bef0-4338-ad9d-798376e4e09c"
-                    },
-                    "lesson-realization-template": {
-                        "href": "/f6adbcb5-5bd4-4bd8-916f-9c2d98199bfc"
-                    },
-                    "location": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9/location"
-                    },
-                    "duration": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9/duration"
-                    },
-                    "team": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9/team"
-                    },
-                    "organizers": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9/organizers"
-                    }
-                },
-                "id": "cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
-            },
-            {
-                "name": "Практическое занятие 15",
-                "nameShort": "Практическое занятие 30",
-                "description": null,
-                "typeId": "SEMI",
-                "formatId": "SEMINAR",
-                "start": "2023-05-23T16:00:00+05:00",
-                "end": "2023-05-23T17:30:00+05:00",
-                "startsAtLocal": "2023-05-23T16:00:00",
-                "endsAtLocal": "2023-05-23T17:30:00",
-                "startsAt": "2023-05-23T16:00:00",
-                "endsAt": "2023-05-23T17:30:00",
-                "holdingStatus": {
-                    "id": "HELD",
-                    "name": "Проведено",
-                    "audModifiedAt": null,
-                    "audModifiedBy": null,
-                    "audModifiedBySystem": true
-                },
-                "userRoleIds": [
-                    "STUDENT"
-                ],
-                "lessonTemplateId": "43700238-8ae5-4c74-94e8-3a4b7fbf41cd",
-                "__version": 44,
-                "_links": {
-                    "self": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356"
-                    },
-                    "type": {
-                        "href": "/SEMI"
-                    },
-                    "format": {
-                        "href": "/SEMINAR"
-                    },
-                    "time-zone": {
-                        "href": "/Asia/Yekaterinburg"
-                    },
-                    "grid": {
-                        "href": "/Grid.07"
-                    },
-                    "course-unit-realization": {
-                        "href": "/ed43ce33-6910-4254-b436-33a92ca591ab"
-                    },
-                    "cycle-realization": {
-                        "href": "/1a2b5e76-ae50-412c-88c9-b86553073f62"
-                    },
-                    "lesson-realization": {
-                        "href": "/d48d56ff-1a36-495a-8394-42db91511351"
-                    },
-                    "lesson-realization-team": {
-                        "href": "/17bbadec-6b44-4972-8fd9-5df36990e577"
-                    },
-                    "lesson-realization-template": {
-                        "href": "/43700238-8ae5-4c74-94e8-3a4b7fbf41cd"
-                    },
-                    "location": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356/location"
-                    },
-                    "duration": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356/duration"
-                    },
-                    "team": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356/team"
-                    },
-                    "organizers": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356/organizers"
-                    }
-                },
-                "id": "de435374-16a9-4266-b5b6-4d620cd6d356"
-            },
-            {
-                "name": "Практическое занятие",
-                "nameShort": "Практическое занятие 29",
-                "description": null,
-                "typeId": "SEMI",
-                "formatId": null,
-                "start": "2023-05-23T10:15:00+05:00",
-                "end": "2023-05-23T11:45:00+05:00",
-                "startsAtLocal": "2023-05-23T10:15:00",
-                "endsAtLocal": "2023-05-23T11:45:00",
-                "startsAt": "2023-05-23T10:15:00",
-                "endsAt": "2023-05-23T11:45:00",
-                "holdingStatus": {
-                    "id": "HELD",
-                    "name": "Проведено",
-                    "audModifiedAt": null,
-                    "audModifiedBy": null,
-                    "audModifiedBySystem": true
-                },
-                "userRoleIds": [
-                    "STUDENT"
-                ],
-                "lessonTemplateId": "41515c6d-ae55-4c13-aaf3-b87419ba3ff2",
-                "__version": 76,
-                "_links": {
-                    "self": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46"
-                    },
-                    "type": {
-                        "href": "/SEMI"
-                    },
-                    "time-zone": {
-                        "href": "/Asia/Yekaterinburg"
-                    },
-                    "grid": {
-                        "href": "/Grid.07"
-                    },
-                    "course-unit-realization": {
-                        "href": "/8160273c-6d61-48de-a4ae-b2e04bc49f4b"
-                    },
-                    "cycle-realization": {
-                        "href": "/260091b0-96e1-42b2-ba80-d287aec41644"
-                    },
-                    "lesson-realization": {
-                        "href": "/4b59a3fc-0a44-461c-85fb-e1109754d8b1"
-                    },
-                    "lesson-realization-team": {
-                        "href": "/83adb6bf-deb8-40c5-af7b-518059d13700"
-                    },
-                    "lesson-realization-template": {
-                        "href": "/41515c6d-ae55-4c13-aaf3-b87419ba3ff2"
-                    },
-                    "location": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46/location"
-                    },
-                    "duration": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46/duration"
-                    },
-                    "team": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46/team"
-                    },
-                    "organizers": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46/organizers"
-                    }
-                },
-                "id": "ea4101cb-e353-434b-b55b-63eeb79d1b46"
+                "id": "c1d31361-78f1-4d78-a1b8-076c864a7c58"
             },
             {
                 "name": "Философия (онлайн курс)",
-                "nameShort": "Лекционное занятие 15",
+                "nameShort": "Лекционное занятие 14",
                 "description": null,
                 "typeId": "LECT",
                 "formatId": "INFORMATION",
-                "start": "2023-05-27T06:50:00+05:00",
-                "end": "2023-05-27T07:35:00+05:00",
-                "startsAtLocal": "2023-05-27T06:50:00",
-                "endsAtLocal": "2023-05-27T07:35:00",
-                "startsAt": "2023-05-27T06:50:00",
-                "endsAt": "2023-05-27T07:35:00",
+                "start": "2023-05-20T06:50:00+05:00",
+                "end": "2023-05-20T07:35:00+05:00",
+                "startsAtLocal": "2023-05-20T06:50:00",
+                "endsAtLocal": "2023-05-20T07:35:00",
+                "startsAt": "2023-05-20T06:50:00",
+                "endsAt": "2023-05-20T07:35:00",
                 "holdingStatus": {
                     "id": "HELD",
                     "name": "Проведено",
-                    "audModifiedAt": "2023-05-27T03:00:00.327095",
+                    "audModifiedAt": null,
                     "audModifiedBy": null,
                     "audModifiedBySystem": true
                 },
                 "userRoleIds": [
                     "STUDENT"
                 ],
-                "lessonTemplateId": "c28d2ea9-3afd-4b6f-b6ab-2e795933eb86",
-                "__version": 549,
+                "lessonTemplateId": "18b44d11-c91e-49b3-b666-8ba7bf214a6d",
+                "__version": 551,
                 "_links": {
                     "self": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac"
                     },
                     "type": {
                         "href": "/LECT"
@@ -1001,28 +797,168 @@
                         "href": "/98c20007-12d3-4df5-abc4-2eeaae56c013"
                     },
                     "lesson-realization": {
-                        "href": "/044ea1f5-24c6-42c7-a98d-8ac22be252bc"
+                        "href": "/d1152c00-4734-417c-a39a-f3b4cdae8cc5"
                     },
                     "lesson-realization-team": {
                         "href": "/af5d3f9e-2905-4697-a753-af5d89122f3f"
                     },
                     "lesson-realization-template": {
-                        "href": "/c28d2ea9-3afd-4b6f-b6ab-2e795933eb86"
+                        "href": "/18b44d11-c91e-49b3-b666-8ba7bf214a6d"
                     },
                     "location": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912/location"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac/location"
                     },
                     "duration": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912/duration"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac/duration"
                     },
                     "team": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912/team"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac/team"
                     },
                     "organizers": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912/organizers"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac/organizers"
                     }
                 },
-                "id": "ffc1dc8f-79c8-46e8-9d6d-e596525d9912"
+                "id": "c42d740d-0b84-4fff-a7e1-c595ce4e5cac"
+            },
+            {
+                "name": "Лекционное занятие 13",
+                "nameShort": "Лекционное занятие 25",
+                "description": null,
+                "typeId": "LECT",
+                "formatId": "INFORMATION",
+                "start": "2023-05-20T14:15:00+05:00",
+                "end": "2023-05-20T15:45:00+05:00",
+                "startsAtLocal": "2023-05-20T14:15:00",
+                "endsAtLocal": "2023-05-20T15:45:00",
+                "startsAt": "2023-05-20T14:15:00",
+                "endsAt": "2023-05-20T15:45:00",
+                "holdingStatus": {
+                    "id": "HELD",
+                    "name": "Проведено",
+                    "audModifiedAt": null,
+                    "audModifiedBy": null,
+                    "audModifiedBySystem": true
+                },
+                "userRoleIds": [
+                    "STUDENT"
+                ],
+                "lessonTemplateId": "37373f79-2d67-4668-8b61-30828e064593",
+                "__version": 45,
+                "_links": {
+                    "self": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7"
+                    },
+                    "type": {
+                        "href": "/LECT"
+                    },
+                    "format": {
+                        "href": "/INFORMATION"
+                    },
+                    "time-zone": {
+                        "href": "/Asia/Yekaterinburg"
+                    },
+                    "grid": {
+                        "href": "/Grid.07"
+                    },
+                    "course-unit-realization": {
+                        "href": "/ed43ce33-6910-4254-b436-33a92ca591ab"
+                    },
+                    "cycle-realization": {
+                        "href": "/1a2b5e76-ae50-412c-88c9-b86553073f62"
+                    },
+                    "lesson-realization": {
+                        "href": "/5bde70ad-490e-4e97-a19e-e051ee77b293"
+                    },
+                    "lesson-realization-team": {
+                        "href": "/17bbadec-6b44-4972-8fd9-5df36990e577"
+                    },
+                    "lesson-realization-template": {
+                        "href": "/37373f79-2d67-4668-8b61-30828e064593"
+                    },
+                    "location": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7/location"
+                    },
+                    "duration": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7/duration"
+                    },
+                    "team": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7/team"
+                    },
+                    "organizers": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7/organizers"
+                    }
+                },
+                "id": "cf9ee7eb-b577-4782-980f-a9ab826163f7"
+            },
+            {
+                "name": "Практическое занятие 27",
+                "nameShort": "Практическое занятие 41",
+                "description": null,
+                "typeId": "SEMI",
+                "formatId": "SEMINAR",
+                "start": "2023-05-17T08:30:00+05:00",
+                "end": "2023-05-17T10:00:00+05:00",
+                "startsAtLocal": "2023-05-17T08:30:00",
+                "endsAtLocal": "2023-05-17T10:00:00",
+                "startsAt": "2023-05-17T08:30:00",
+                "endsAt": "2023-05-17T10:00:00",
+                "holdingStatus": {
+                    "id": "HELD",
+                    "name": "Проведено",
+                    "audModifiedAt": null,
+                    "audModifiedBy": null,
+                    "audModifiedBySystem": true
+                },
+                "userRoleIds": [
+                    "STUDENT"
+                ],
+                "lessonTemplateId": "57b127d6-c611-4078-b2c9-6c71178b312a",
+                "__version": 49,
+                "_links": {
+                    "self": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d"
+                    },
+                    "type": {
+                        "href": "/SEMI"
+                    },
+                    "format": {
+                        "href": "/SEMINAR"
+                    },
+                    "time-zone": {
+                        "href": "/Asia/Yekaterinburg"
+                    },
+                    "grid": {
+                        "href": "/Grid.07"
+                    },
+                    "course-unit-realization": {
+                        "href": "/489a00dd-23a7-4d22-8b39-d8f97de6dcb0"
+                    },
+                    "cycle-realization": {
+                        "href": "/01c96271-ca73-4b91-9ee5-841c1609f469"
+                    },
+                    "lesson-realization": {
+                        "href": "/09039d74-8611-488c-9a8b-e5fa57d1073d"
+                    },
+                    "lesson-realization-team": {
+                        "href": "/17a0ff50-bef0-4338-ad9d-798376e4e09c"
+                    },
+                    "lesson-realization-template": {
+                        "href": "/57b127d6-c611-4078-b2c9-6c71178b312a"
+                    },
+                    "location": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d/location"
+                    },
+                    "duration": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d/duration"
+                    },
+                    "team": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d/team"
+                    },
+                    "organizers": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d/organizers"
+                    }
+                },
+                "id": "dcaf1ee0-646f-4e87-bfb9-022966188d7d"
             }
         ],
         "course-unit-realizations": [
@@ -1097,20 +1033,6 @@
                 "id": "8160273c-6d61-48de-a4ae-b2e04bc49f4b"
             },
             {
-                "name": "Введение в инженерную деятельность. Трек 4.",
-                "nameShort": "Введение в инженерную деятельность",
-                "prototypeId": "42503173-fe19-4d38-be88-3b9df9cbfc7a",
-                "_links": {
-                    "self": {
-                        "href": "/8d6be679-15da-46a2-a35d-872fd7aff061"
-                    },
-                    "planning-period": {
-                        "href": "/48330c54-40f4-4ed0-8e71-c853f55f9ed5"
-                    }
-                },
-                "id": "8d6be679-15da-46a2-a35d-872fd7aff061"
-            },
-            {
                 "name": "Философия (онлайн, СПбПУ, ОК)",
                 "nameShort": "Философия",
                 "prototypeId": "3e2ff4c8-3543-4190-b0b3-32d170ddd91d",
@@ -1154,21 +1076,6 @@
                     }
                 },
                 "id": "01c96271-ca73-4b91-9ee5-841c1609f469"
-            },
-            {
-                "name": "Практическое занятие, Аттестация",
-                "nameShort": "П, АТ",
-                "code": "Введение в инженерную деятельность П, АТ-05",
-                "courseUnitRealizationNameShort": "Введение в инженерную деятельность",
-                "_links": {
-                    "self": {
-                        "href": "/1354b5ba-e5a0-4f88-9cb8-b16433ee8a3c"
-                    },
-                    "course-unit-realization": {
-                        "href": "/8d6be679-15da-46a2-a35d-872fd7aff061"
-                    }
-                },
-                "id": "1354b5ba-e5a0-4f88-9cb8-b16433ee8a3c"
             },
             {
                 "name": "Лекционное занятие, Практическое занятие, Аттестация",
@@ -1231,21 +1138,6 @@
                 "id": "4f1ac8c0-c360-46d3-9d41-63189fa0440c"
             },
             {
-                "name": "Лекционное занятие",
-                "nameShort": "Л",
-                "code": "Введение в инженерную деятельность Л-01",
-                "courseUnitRealizationNameShort": "Введение в инженерную деятельность",
-                "_links": {
-                    "self": {
-                        "href": "/573f9d70-0c51-41fd-986e-c93e7fa7f225"
-                    },
-                    "course-unit-realization": {
-                        "href": "/8d6be679-15da-46a2-a35d-872fd7aff061"
-                    }
-                },
-                "id": "573f9d70-0c51-41fd-986e-c93e7fa7f225"
-            },
-            {
                 "name": "Практическое занятие, Консультация, Аттестация, Самостоятельная работа",
                 "nameShort": "П, К, АТ, СР",
                 "code": "Иностранный язык (английский) П, К, АТ, СР-21",
@@ -1296,15 +1188,6 @@
                 "id": "17bbadec-6b44-4972-8fd9-5df36990e577"
             },
             {
-                "name": "Введение в инженерную деятельность П, АТ-05",
-                "_links": {
-                    "self": {
-                        "href": "/2791d50a-31ea-4de4-ba43-b80621e9aa4e"
-                    }
-                },
-                "id": "2791d50a-31ea-4de4-ba43-b80621e9aa4e"
-            },
-            {
                 "name": "Безопасность жизнедеятельности Л, АТ-01",
                 "_links": {
                     "self": {
@@ -1312,15 +1195,6 @@
                     }
                 },
                 "id": "3d909427-fbc1-4769-bdfd-5fbfd357df5e"
-            },
-            {
-                "name": "Введение в инженерную деятельность Л-01",
-                "_links": {
-                    "self": {
-                        "href": "/43ff1f85-e91e-4352-8fe0-7e3d0e313021"
-                    }
-                },
-                "id": "43ff1f85-e91e-4352-8fe0-7e3d0e313021"
             },
             {
                 "name": "Прикладнаяфизическаякультура-П,АТ-РИ-12",
@@ -1361,426 +1235,397 @@
         ],
         "lesson-realizations": [
             {
-                "name": "Философия (онлайн курс)",
-                "nameShort": "Лекционное занятие 15",
-                "prototypeId": "92cace78-789a-1838-e766-4dae69942c95",
-                "ordinal": 14,
+                "name": "Практическое занятие 27",
+                "nameShort": "Практическое занятие 41",
+                "prototypeId": "d996ecd6-97e4-e787-3486-35c4681105b0",
+                "ordinal": 40,
                 "_links": {
                     "self": {
-                        "href": "/044ea1f5-24c6-42c7-a98d-8ac22be252bc"
+                        "href": "/09039d74-8611-488c-9a8b-e5fa57d1073d"
                     }
                 },
-                "id": "044ea1f5-24c6-42c7-a98d-8ac22be252bc"
+                "id": "09039d74-8611-488c-9a8b-e5fa57d1073d"
             },
             {
-                "name": "Практическое занятие",
-                "nameShort": "Практическое занятие 30",
-                "prototypeId": "f4b1c588-02e4-4759-949a-2f5c872cc196",
-                "ordinal": 29,
+                "name": "Практическое занятие 14",
+                "nameShort": "Практическое занятие 28",
+                "prototypeId": "2bf7ca94-44d4-2409-662e-9aa13a7a20da",
+                "ordinal": 27,
                 "_links": {
                     "self": {
-                        "href": "/1c296145-a3b2-453f-819e-756332f54347"
+                        "href": "/1effc49f-0736-448d-9616-1b8afc5ec886"
                     }
                 },
-                "id": "1c296145-a3b2-453f-819e-756332f54347"
-            },
-            {
-                "name": "Практическое занятие",
-                "nameShort": "Практическое занятие 29",
-                "prototypeId": "cf8ce93c-d3c5-4e07-b72b-cac6bff2b741",
-                "ordinal": 28,
-                "_links": {
-                    "self": {
-                        "href": "/4b59a3fc-0a44-461c-85fb-e1109754d8b1"
-                    }
-                },
-                "id": "4b59a3fc-0a44-461c-85fb-e1109754d8b1"
-            },
-            {
-                "name": "Практическое занятие",
-                "nameShort": "Практическое занятие 29",
-                "prototypeId": "98caedaa-63f3-47c9-8319-4887f95b2bdd",
-                "ordinal": 28,
-                "_links": {
-                    "self": {
-                        "href": "/5589c451-0021-4722-810f-74ba8183c9e1"
-                    }
-                },
-                "id": "5589c451-0021-4722-810f-74ba8183c9e1"
-            },
-            {
-                "name": "Лабораторное занятие 29",
-                "nameShort": "Лабораторное занятие 29",
-                "prototypeId": "1d425681-2bef-42fb-a145-c5cac80f9043",
-                "ordinal": 28,
-                "_links": {
-                    "self": {
-                        "href": "/6026fbca-6e58-489d-9d85-9e5e8c19cbdd"
-                    }
-                },
-                "id": "6026fbca-6e58-489d-9d85-9e5e8c19cbdd"
-            },
-            {
-                "name": "Практическое занятие 30",
-                "nameShort": "Практическое занятие 45",
-                "prototypeId": "c53e6c3f-26c2-8f74-694f-f6a754954315",
-                "ordinal": 44,
-                "_links": {
-                    "self": {
-                        "href": "/63b96c9f-5957-495c-8e52-169a9eb3fca9"
-                    }
-                },
-                "id": "63b96c9f-5957-495c-8e52-169a9eb3fca9"
-            },
-            {
-                "name": "практическое занятие 8",
-                "nameShort": "Практическое занятие 16",
-                "prototypeId": "c39927f1-a3bd-6655-a4fb-b998d8804a78",
-                "ordinal": 15,
-                "_links": {
-                    "self": {
-                        "href": "/63cb859e-1c0d-4e89-b7cd-b1fd1ac4efa4"
-                    }
-                },
-                "id": "63cb859e-1c0d-4e89-b7cd-b1fd1ac4efa4"
-            },
-            {
-                "name": "Онлайн-курс",
-                "nameShort": "Лекционное занятие 15",
-                "prototypeId": "f5d7b7d2-3bf5-4ad8-96a6-79f6a88fb92c",
-                "ordinal": 14,
-                "_links": {
-                    "self": {
-                        "href": "/647bd5f4-5587-43f8-8d96-07b48b5a9b8c"
-                    }
-                },
-                "id": "647bd5f4-5587-43f8-8d96-07b48b5a9b8c"
-            },
-            {
-                "name": "Лабораторное занятие 30",
-                "nameShort": "Лабораторное занятие 30",
-                "prototypeId": "6d7e0ae2-3de5-4853-9d37-1a65a0889824",
-                "ordinal": 29,
-                "_links": {
-                    "self": {
-                        "href": "/8a8236b2-2fd4-43a9-a265-80553bf066a1"
-                    }
-                },
-                "id": "8a8236b2-2fd4-43a9-a265-80553bf066a1"
-            },
-            {
-                "name": "Лекционное занятие 15",
-                "nameShort": "Лекционное занятие 43",
-                "prototypeId": "e83efa07-1ff8-79e9-9866-fedb250d4858",
-                "ordinal": 42,
-                "_links": {
-                    "self": {
-                        "href": "/90ff65d3-36ab-4200-9f42-449b6d9ea75f"
-                    }
-                },
-                "id": "90ff65d3-36ab-4200-9f42-449b6d9ea75f"
-            },
-            {
-                "name": "Практическое занятие 29",
-                "nameShort": "Практическое занятие 44",
-                "prototypeId": "b9b5eaef-b02f-9532-f69d-e4d4fc3dc3e1",
-                "ordinal": 43,
-                "_links": {
-                    "self": {
-                        "href": "/a3df5a05-b59f-4406-a9ba-28ddc97d1ded"
-                    }
-                },
-                "id": "a3df5a05-b59f-4406-a9ba-28ddc97d1ded"
-            },
-            {
-                "name": "Лекционное занятие 15",
-                "nameShort": "Лекционное занятие 29",
-                "prototypeId": "c6805a0e-6453-a82f-3de3-5329197a2662",
-                "ordinal": 28,
-                "_links": {
-                    "self": {
-                        "href": "/d0ba3d6f-9a86-46f7-98b7-4079261a5d91"
-                    }
-                },
-                "id": "d0ba3d6f-9a86-46f7-98b7-4079261a5d91"
-            },
-            {
-                "name": "Практическое занятие 15",
-                "nameShort": "Практическое занятие 30",
-                "prototypeId": "697e9c16-952f-e707-6f3e-0476dd72d50c",
-                "ordinal": 29,
-                "_links": {
-                    "self": {
-                        "href": "/d48d56ff-1a36-495a-8394-42db91511351"
-                    }
-                },
-                "id": "d48d56ff-1a36-495a-8394-42db91511351"
-            },
-            {
-                "name": "Что еще необходимо инженеру?",
-                "nameShort": "Лекционное занятие 15",
-                "prototypeId": "3f687567-652b-660e-24ec-95c377c02aae",
-                "ordinal": 14,
-                "_links": {
-                    "self": {
-                        "href": "/ddbddc34-714d-4422-bc13-eb56f9c9df99"
-                    }
-                },
-                "id": "ddbddc34-714d-4422-bc13-eb56f9c9df99"
+                "id": "1effc49f-0736-448d-9616-1b8afc5ec886"
             },
             {
                 "name": "Самостоятельная работа на онлайн-платформе",
-                "nameShort": "Самостоятельная работа 30",
-                "prototypeId": "146e6a74-e973-40dc-b2f5-cc09fcdf6469",
-                "ordinal": 29,
+                "nameShort": "Самостоятельная работа 28",
+                "prototypeId": "b4bebed8-e296-41fd-a23d-1a825ace2c44",
+                "ordinal": 27,
                 "_links": {
                     "self": {
-                        "href": "/ebef52a5-2cb9-4d15-841a-9861d1333e2e"
+                        "href": "/1f7b922e-7994-44fb-ae84-bc49f37c9721"
                     }
                 },
-                "id": "ebef52a5-2cb9-4d15-841a-9861d1333e2e"
+                "id": "1f7b922e-7994-44fb-ae84-bc49f37c9721"
+            },
+            {
+                "name": "Лекционное занятие 14",
+                "nameShort": "Лекционное занятие 27",
+                "prototypeId": "4f409755-cb5f-3e3b-18f8-bc70214e6058",
+                "ordinal": 26,
+                "_links": {
+                    "self": {
+                        "href": "/232e2bce-197b-43bf-afe0-cee2cea26555"
+                    }
+                },
+                "id": "232e2bce-197b-43bf-afe0-cee2cea26555"
+            },
+            {
+                "name": "Лабораторное занятие 27",
+                "nameShort": "Лабораторное занятие 27",
+                "prototypeId": "b1da14da-1f77-447c-8fd8-6cc6b67d090f",
+                "ordinal": 26,
+                "_links": {
+                    "self": {
+                        "href": "/3c5fbe24-7955-45d3-bb67-f8fcd1662299"
+                    }
+                },
+                "id": "3c5fbe24-7955-45d3-bb67-f8fcd1662299"
+            },
+            {
+                "name": "Практическое занятие",
+                "nameShort": "Практическое занятие 27",
+                "prototypeId": "6936e23b-a4ae-40a2-849c-cde48b57481d",
+                "ordinal": 26,
+                "_links": {
+                    "self": {
+                        "href": "/4d6c8489-facc-4dbc-8861-c374a3c40735"
+                    }
+                },
+                "id": "4d6c8489-facc-4dbc-8861-c374a3c40735"
+            },
+            {
+                "name": "Лабораторное занятие 28",
+                "nameShort": "Лабораторное занятие 28",
+                "prototypeId": "ba63bae9-4d13-4231-b6e4-fe183d6129c1",
+                "ordinal": 27,
+                "_links": {
+                    "self": {
+                        "href": "/589d30cd-dd15-4e3d-a166-adde73e48fa9"
+                    }
+                },
+                "id": "589d30cd-dd15-4e3d-a166-adde73e48fa9"
+            },
+            {
+                "name": "Лекционное занятие 13",
+                "nameShort": "Лекционное занятие 25",
+                "prototypeId": "0d0714d7-287e-427c-1cac-6c2bf5231fde",
+                "ordinal": 24,
+                "_links": {
+                    "self": {
+                        "href": "/5bde70ad-490e-4e97-a19e-e051ee77b293"
+                    }
+                },
+                "id": "5bde70ad-490e-4e97-a19e-e051ee77b293"
+            },
+            {
+                "name": "Практическое занятие 28",
+                "nameShort": "Практическое занятие 42",
+                "prototypeId": "7e56cb03-2fc4-3644-3b41-7ab4800d2f44",
+                "ordinal": 41,
+                "_links": {
+                    "self": {
+                        "href": "/8190d57e-8aa9-45e4-b222-d290bc5cae9a"
+                    }
+                },
+                "id": "8190d57e-8aa9-45e4-b222-d290bc5cae9a"
+            },
+            {
+                "name": "Практическое занятие",
+                "nameShort": "Практическое занятие 28",
+                "prototypeId": "d1bc91af-45a9-48e5-9a7c-eede2c049d36",
+                "ordinal": 27,
+                "_links": {
+                    "self": {
+                        "href": "/93362ff4-0350-4163-b322-0afc47470930"
+                    }
+                },
+                "id": "93362ff4-0350-4163-b322-0afc47470930"
+            },
+            {
+                "name": "Онлайн-курс",
+                "nameShort": "Лекционное занятие 14",
+                "prototypeId": "51243daa-7925-4cc8-b16a-84ddeee6bfe8",
+                "ordinal": 13,
+                "_links": {
+                    "self": {
+                        "href": "/b409bc7a-bc7e-4059-b94c-85b45862c197"
+                    }
+                },
+                "id": "b409bc7a-bc7e-4059-b94c-85b45862c197"
+            },
+            {
+                "name": "Философия (онлайн курс)",
+                "nameShort": "Лекционное занятие 14",
+                "prototypeId": "b8d47420-5cdc-41c5-2b07-f0afde02b87e",
+                "ordinal": 13,
+                "_links": {
+                    "self": {
+                        "href": "/d1152c00-4734-417c-a39a-f3b4cdae8cc5"
+                    }
+                },
+                "id": "d1152c00-4734-417c-a39a-f3b4cdae8cc5"
+            },
+            {
+                "name": "Практическое занятие",
+                "nameShort": "Практическое занятие 27",
+                "prototypeId": "ffeed8ca-efb6-43f9-9a55-3e228de5d89d",
+                "ordinal": 26,
+                "_links": {
+                    "self": {
+                        "href": "/d7a302e5-a6c5-4b66-9918-98e2e563dab0"
+                    }
+                },
+                "id": "d7a302e5-a6c5-4b66-9918-98e2e563dab0"
+            },
+            {
+                "name": "Лекционное занятие 14",
+                "nameShort": "Лекционное занятие 40",
+                "prototypeId": "7ea21b89-dcaf-5330-ac7c-472f9ff8f8cc",
+                "ordinal": 39,
+                "_links": {
+                    "self": {
+                        "href": "/f3b45d30-5b82-4b65-960a-ad625d118b69"
+                    }
+                },
+                "id": "f3b45d30-5b82-4b65-960a-ad625d118b69"
             }
         ],
         "event-locations": [
             {
-                "eventId": "1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5",
-                "customLocation": null,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5/location"
-                        },
-                        {
-                            "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5"
-                        }
-                    ]
-                }
-            },
-            {
-                "eventId": "1bb01a0b-97ea-4c6a-942c-a82438bc6960",
+                "eventId": "114e867c-b8e1-4b5d-a640-625eadcafbcb",
                 "customLocation": "Т106",
                 "_links": {
                     "self": [
                         {
-                            "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960/location"
+                            "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb/location"
                         },
                         {
-                            "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960"
+                            "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb"
                         }
                     ]
                 }
             },
             {
-                "eventId": "1e3c6470-f96a-4bf7-86fc-76d3f9733c71",
+                "eventId": "23a4fcc3-da84-4cb6-b4b1-15e0767c8003",
                 "customLocation": null,
                 "_links": {
                     "self": [
                         {
-                            "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71/location"
+                            "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003/location"
                         },
                         {
-                            "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71"
-                        }
-                    ]
-                }
-            },
-            {
-                "eventId": "3539e232-cb09-45fa-9396-e2dbd7f82513",
-                "customLocation": "https://inf-online.urfu.ru/ru/",
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513/location"
-                        },
-                        {
-                            "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513"
-                        }
-                    ]
-                }
-            },
-            {
-                "eventId": "543b481a-dca5-46e4-bf02-f4434c54a5d2",
-                "customLocation": "Т106",
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2/location"
-                        },
-                        {
-                            "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2"
-                        }
-                    ]
-                }
-            },
-            {
-                "eventId": "70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0",
-                "customLocation": null,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0/location"
-                        },
-                        {
-                            "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0"
+                            "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
                         }
                     ],
                     "event-rooms": {
-                        "href": "/98b37d86-d79b-4368-affc-cb8f00f2d156"
+                        "href": "/b40ba5c6-82f0-4b54-a7cf-40c611da226c"
                     }
                 }
             },
             {
-                "eventId": "71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e",
+                "eventId": "3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d",
+                "customLocation": null,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d/location"
+                        },
+                        {
+                            "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d"
+                        }
+                    ]
+                }
+            },
+            {
+                "eventId": "4c7c6069-e0f6-4b61-a4c8-ee28b4205e17",
+                "customLocation": null,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17/location"
+                        },
+                        {
+                            "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17"
+                        }
+                    ]
+                }
+            },
+            {
+                "eventId": "534ada80-259a-4c49-9c8a-5e2d9ae060f1",
+                "customLocation": null,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1/location"
+                        },
+                        {
+                            "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1"
+                        }
+                    ]
+                }
+            },
+            {
+                "eventId": "56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e",
+                "customLocation": null,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e/location"
+                        },
+                        {
+                            "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e"
+                        }
+                    ],
+                    "event-rooms": {
+                        "href": "/d5877f8b-df52-429d-a808-c07d0e89357b"
+                    }
+                }
+            },
+            {
+                "eventId": "5944f4db-17f5-42e9-9806-d0cbf26bf4a2",
+                "customLocation": "https://inf-online.urfu.ru/ru/",
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2/location"
+                        },
+                        {
+                            "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2"
+                        }
+                    ]
+                }
+            },
+            {
+                "eventId": "8a73eaf2-191a-4125-9566-1b9c1593c6c0",
+                "customLocation": null,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0/location"
+                        },
+                        {
+                            "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0"
+                        }
+                    ],
+                    "event-rooms": {
+                        "href": "/e2bbead3-8446-46c0-9d44-85a4e8466065"
+                    }
+                }
+            },
+            {
+                "eventId": "9bc277ab-63b5-49e1-b270-4c0f0f0d93a4",
                 "customLocation": "https://exam1.urfu.ru/course/view.php?id=855",
                 "_links": {
                     "self": [
                         {
-                            "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e/location"
+                            "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4/location"
                         },
                         {
-                            "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e"
+                            "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4"
                         }
                     ]
                 }
             },
             {
-                "eventId": "7e59c436-2cd0-408d-bbef-12148d2c7f4f",
+                "eventId": "b42b6634-549b-479e-a3af-fac17b11b500",
                 "customLocation": null,
                 "_links": {
                     "self": [
                         {
-                            "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f/location"
+                            "href": "/b42b6634-549b-479e-a3af-fac17b11b500/location"
                         },
                         {
-                            "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f"
+                            "href": "/b42b6634-549b-479e-a3af-fac17b11b500"
                         }
                     ]
                 }
             },
             {
-                "eventId": "897ca9dd-e107-4020-a682-fa480b21a424",
-                "customLocation": "https://elearn.urfu.ru/course/view.php?id=6587",
+                "eventId": "c1d31361-78f1-4d78-a1b8-076c864a7c58",
+                "customLocation": "Т106",
                 "_links": {
                     "self": [
                         {
-                            "href": "/897ca9dd-e107-4020-a682-fa480b21a424/location"
+                            "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58/location"
                         },
                         {
-                            "href": "/897ca9dd-e107-4020-a682-fa480b21a424"
+                            "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58"
                         }
                     ]
                 }
             },
             {
-                "eventId": "9faa3d8e-f8be-42ab-8d0e-fd456dc8f724",
-                "customLocation": null,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724/location"
-                        },
-                        {
-                            "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
-                        }
-                    ],
-                    "event-rooms": {
-                        "href": "/6a74f026-57e9-48fa-a848-f385539a6511"
-                    }
-                }
-            },
-            {
-                "eventId": "b87c1977-09be-4649-ae5b-396a197a0e59",
-                "customLocation": null,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/b87c1977-09be-4649-ae5b-396a197a0e59/location"
-                        },
-                        {
-                            "href": "/b87c1977-09be-4649-ae5b-396a197a0e59"
-                        }
-                    ],
-                    "event-rooms": {
-                        "href": "/56118c1c-ce61-45d5-9f51-03e218ae43a6"
-                    }
-                }
-            },
-            {
-                "eventId": "cd99f915-09e9-4230-bb13-6bc4c2b7fdf9",
-                "customLocation": null,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9/location"
-                        },
-                        {
-                            "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
-                        }
-                    ],
-                    "event-rooms": {
-                        "href": "/4ed114e0-43f6-4638-af45-bf5b6bece9b8"
-                    }
-                }
-            },
-            {
-                "eventId": "de435374-16a9-4266-b5b6-4d620cd6d356",
-                "customLocation": null,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/de435374-16a9-4266-b5b6-4d620cd6d356/location"
-                        },
-                        {
-                            "href": "/de435374-16a9-4266-b5b6-4d620cd6d356"
-                        }
-                    ],
-                    "event-rooms": {
-                        "href": "/f202bc2a-f222-4822-b09c-b3edfb06d5ec"
-                    }
-                }
-            },
-            {
-                "eventId": "ea4101cb-e353-434b-b55b-63eeb79d1b46",
-                "customLocation": null,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46/location"
-                        },
-                        {
-                            "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46"
-                        }
-                    ]
-                }
-            },
-            {
-                "eventId": "ffc1dc8f-79c8-46e8-9d6d-e596525d9912",
+                "eventId": "c42d740d-0b84-4fff-a7e1-c595ce4e5cac",
                 "customLocation": "https://inf-online.urfu.ru/ru/",
                 "_links": {
                     "self": [
                         {
-                            "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912/location"
+                            "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac/location"
                         },
                         {
-                            "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912"
+                            "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac"
                         }
                     ]
+                }
+            },
+            {
+                "eventId": "cf9ee7eb-b577-4782-980f-a9ab826163f7",
+                "customLocation": "Т106",
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7/location"
+                        },
+                        {
+                            "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7"
+                        }
+                    ]
+                }
+            },
+            {
+                "eventId": "dcaf1ee0-646f-4e87-bfb9-022966188d7d",
+                "customLocation": null,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d/location"
+                        },
+                        {
+                            "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d"
+                        }
+                    ],
+                    "event-rooms": {
+                        "href": "/12a3eb64-8441-4bc5-928a-a418a9081fda"
+                    }
                 }
             }
         ],
         "durations": [
             {
-                "eventId": "1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5",
+                "eventId": "114e867c-b8e1-4b5d-a640-625eadcafbcb",
                 "value": 1,
                 "timeUnitId": "PAIR",
                 "minutes": 90,
                 "_links": {
                     "self": [
                         {
-                            "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5/duration"
+                            "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb/duration"
                         },
                         {
-                            "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5"
+                            "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb"
                         }
                     ],
                     "time-unit": {
@@ -1789,17 +1634,17 @@
                 }
             },
             {
-                "eventId": "1bb01a0b-97ea-4c6a-942c-a82438bc6960",
+                "eventId": "23a4fcc3-da84-4cb6-b4b1-15e0767c8003",
                 "value": 1,
                 "timeUnitId": "PAIR",
                 "minutes": 90,
                 "_links": {
                     "self": [
                         {
-                            "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960/duration"
+                            "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003/duration"
                         },
                         {
-                            "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960"
+                            "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
                         }
                     ],
                     "time-unit": {
@@ -1808,17 +1653,17 @@
                 }
             },
             {
-                "eventId": "1e3c6470-f96a-4bf7-86fc-76d3f9733c71",
+                "eventId": "3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d",
                 "value": 1,
                 "timeUnitId": "PAIR",
                 "minutes": 90,
                 "_links": {
                     "self": [
                         {
-                            "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71/duration"
+                            "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d/duration"
                         },
                         {
-                            "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71"
+                            "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d"
                         }
                     ],
                     "time-unit": {
@@ -1827,17 +1672,74 @@
                 }
             },
             {
-                "eventId": "3539e232-cb09-45fa-9396-e2dbd7f82513",
+                "eventId": "4c7c6069-e0f6-4b61-a4c8-ee28b4205e17",
+                "value": 1,
+                "timeUnitId": "PAIR",
+                "minutes": 90,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17/duration"
+                        },
+                        {
+                            "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17"
+                        }
+                    ],
+                    "time-unit": {
+                        "href": "/PAIR"
+                    }
+                }
+            },
+            {
+                "eventId": "534ada80-259a-4c49-9c8a-5e2d9ae060f1",
+                "value": 1,
+                "timeUnitId": "PAIR",
+                "minutes": 90,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1/duration"
+                        },
+                        {
+                            "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1"
+                        }
+                    ],
+                    "time-unit": {
+                        "href": "/PAIR"
+                    }
+                }
+            },
+            {
+                "eventId": "56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e",
+                "value": 1,
+                "timeUnitId": "PAIR",
+                "minutes": 90,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e/duration"
+                        },
+                        {
+                            "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e"
+                        }
+                    ],
+                    "time-unit": {
+                        "href": "/PAIR"
+                    }
+                }
+            },
+            {
+                "eventId": "5944f4db-17f5-42e9-9806-d0cbf26bf4a2",
                 "value": 1,
                 "timeUnitId": "ACADEMIC_HOUR",
                 "minutes": 45,
                 "_links": {
                     "self": [
                         {
-                            "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513/duration"
+                            "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2/duration"
                         },
                         {
-                            "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513"
+                            "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2"
                         }
                     ],
                     "time-unit": {
@@ -1846,17 +1748,17 @@
                 }
             },
             {
-                "eventId": "543b481a-dca5-46e4-bf02-f4434c54a5d2",
+                "eventId": "8a73eaf2-191a-4125-9566-1b9c1593c6c0",
                 "value": 1,
                 "timeUnitId": "PAIR",
                 "minutes": 90,
                 "_links": {
                     "self": [
                         {
-                            "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2/duration"
+                            "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0/duration"
                         },
                         {
-                            "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2"
+                            "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0"
                         }
                     ],
                     "time-unit": {
@@ -1865,36 +1767,17 @@
                 }
             },
             {
-                "eventId": "70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0",
-                "value": 4,
-                "timeUnitId": "ACADEMIC_HOUR",
-                "minutes": 180,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0/duration"
-                        },
-                        {
-                            "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0"
-                        }
-                    ],
-                    "time-unit": {
-                        "href": "/ACADEMIC_HOUR"
-                    }
-                }
-            },
-            {
-                "eventId": "71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e",
+                "eventId": "9bc277ab-63b5-49e1-b270-4c0f0f0d93a4",
                 "value": 1,
                 "timeUnitId": "PAIR",
                 "minutes": 90,
                 "_links": {
                     "self": [
                         {
-                            "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e/duration"
+                            "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4/duration"
                         },
                         {
-                            "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e"
+                            "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4"
                         }
                     ],
                     "time-unit": {
@@ -1903,17 +1786,17 @@
                 }
             },
             {
-                "eventId": "7e59c436-2cd0-408d-bbef-12148d2c7f4f",
+                "eventId": "b42b6634-549b-479e-a3af-fac17b11b500",
                 "value": 1,
                 "timeUnitId": "PAIR",
                 "minutes": 90,
                 "_links": {
                     "self": [
                         {
-                            "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f/duration"
+                            "href": "/b42b6634-549b-479e-a3af-fac17b11b500/duration"
                         },
                         {
-                            "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f"
+                            "href": "/b42b6634-549b-479e-a3af-fac17b11b500"
                         }
                     ],
                     "time-unit": {
@@ -1922,17 +1805,17 @@
                 }
             },
             {
-                "eventId": "897ca9dd-e107-4020-a682-fa480b21a424",
+                "eventId": "c1d31361-78f1-4d78-a1b8-076c864a7c58",
                 "value": 1,
                 "timeUnitId": "PAIR",
                 "minutes": 90,
                 "_links": {
                     "self": [
                         {
-                            "href": "/897ca9dd-e107-4020-a682-fa480b21a424/duration"
+                            "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58/duration"
                         },
                         {
-                            "href": "/897ca9dd-e107-4020-a682-fa480b21a424"
+                            "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58"
                         }
                     ],
                     "time-unit": {
@@ -1941,116 +1824,59 @@
                 }
             },
             {
-                "eventId": "9faa3d8e-f8be-42ab-8d0e-fd456dc8f724",
-                "value": 1,
-                "timeUnitId": "PAIR",
-                "minutes": 90,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724/duration"
-                        },
-                        {
-                            "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
-                        }
-                    ],
-                    "time-unit": {
-                        "href": "/PAIR"
-                    }
-                }
-            },
-            {
-                "eventId": "b87c1977-09be-4649-ae5b-396a197a0e59",
-                "value": 1,
-                "timeUnitId": "PAIR",
-                "minutes": 90,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/b87c1977-09be-4649-ae5b-396a197a0e59/duration"
-                        },
-                        {
-                            "href": "/b87c1977-09be-4649-ae5b-396a197a0e59"
-                        }
-                    ],
-                    "time-unit": {
-                        "href": "/PAIR"
-                    }
-                }
-            },
-            {
-                "eventId": "cd99f915-09e9-4230-bb13-6bc4c2b7fdf9",
-                "value": 1,
-                "timeUnitId": "PAIR",
-                "minutes": 90,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9/duration"
-                        },
-                        {
-                            "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
-                        }
-                    ],
-                    "time-unit": {
-                        "href": "/PAIR"
-                    }
-                }
-            },
-            {
-                "eventId": "de435374-16a9-4266-b5b6-4d620cd6d356",
-                "value": 1,
-                "timeUnitId": "PAIR",
-                "minutes": 90,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/de435374-16a9-4266-b5b6-4d620cd6d356/duration"
-                        },
-                        {
-                            "href": "/de435374-16a9-4266-b5b6-4d620cd6d356"
-                        }
-                    ],
-                    "time-unit": {
-                        "href": "/PAIR"
-                    }
-                }
-            },
-            {
-                "eventId": "ea4101cb-e353-434b-b55b-63eeb79d1b46",
-                "value": 1,
-                "timeUnitId": "PAIR",
-                "minutes": 90,
-                "_links": {
-                    "self": [
-                        {
-                            "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46/duration"
-                        },
-                        {
-                            "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46"
-                        }
-                    ],
-                    "time-unit": {
-                        "href": "/PAIR"
-                    }
-                }
-            },
-            {
-                "eventId": "ffc1dc8f-79c8-46e8-9d6d-e596525d9912",
+                "eventId": "c42d740d-0b84-4fff-a7e1-c595ce4e5cac",
                 "value": 1,
                 "timeUnitId": "ACADEMIC_HOUR",
                 "minutes": 45,
                 "_links": {
                     "self": [
                         {
-                            "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912/duration"
+                            "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac/duration"
                         },
                         {
-                            "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912"
+                            "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac"
                         }
                     ],
                     "time-unit": {
                         "href": "/ACADEMIC_HOUR"
+                    }
+                }
+            },
+            {
+                "eventId": "cf9ee7eb-b577-4782-980f-a9ab826163f7",
+                "value": 1,
+                "timeUnitId": "PAIR",
+                "minutes": 90,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7/duration"
+                        },
+                        {
+                            "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7"
+                        }
+                    ],
+                    "time-unit": {
+                        "href": "/PAIR"
+                    }
+                }
+            },
+            {
+                "eventId": "dcaf1ee0-646f-4e87-bfb9-022966188d7d",
+                "value": 1,
+                "timeUnitId": "PAIR",
+                "minutes": 90,
+                "_links": {
+                    "self": [
+                        {
+                            "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d/duration"
+                        },
+                        {
+                            "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d"
+                        }
+                    ],
+                    "time-unit": {
+                        "href": "/PAIR"
                     }
                 }
             }
@@ -2059,72 +1885,58 @@
             {
                 "_links": {
                     "self": {
-                        "href": "/98b37d86-d79b-4368-affc-cb8f00f2d156"
+                        "href": "/b40ba5c6-82f0-4b54-a7cf-40c611da226c"
                     },
                     "event": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0"
-                    },
-                    "room": {
-                        "href": "/06b1179c-e29a-43f6-8d93-f7f533430505"
-                    }
-                },
-                "id": "98b37d86-d79b-4368-affc-cb8f00f2d156"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/6a74f026-57e9-48fa-a848-f385539a6511"
-                    },
-                    "event": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
-                    },
-                    "room": {
-                        "href": "/06b1179c-e29a-43f6-8d93-f7f533430053"
-                    }
-                },
-                "id": "6a74f026-57e9-48fa-a848-f385539a6511"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/56118c1c-ce61-45d5-9f51-03e218ae43a6"
-                    },
-                    "event": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59"
-                    },
-                    "room": {
-                        "href": "/06b1179c-e29a-43f6-8d93-f7f533430017"
-                    }
-                },
-                "id": "56118c1c-ce61-45d5-9f51-03e218ae43a6"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/4ed114e0-43f6-4638-af45-bf5b6bece9b8"
-                    },
-                    "event": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
-                    },
-                    "room": {
-                        "href": "/06b1179c-e29a-43f6-8d93-f7f533430053"
-                    }
-                },
-                "id": "4ed114e0-43f6-4638-af45-bf5b6bece9b8"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/f202bc2a-f222-4822-b09c-b3edfb06d5ec"
-                    },
-                    "event": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356"
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
                     },
                     "room": {
                         "href": "/06b1179c-e29a-43f6-8d93-f7f533430139"
                     }
                 },
-                "id": "f202bc2a-f222-4822-b09c-b3edfb06d5ec"
+                "id": "b40ba5c6-82f0-4b54-a7cf-40c611da226c"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/d5877f8b-df52-429d-a808-c07d0e89357b"
+                    },
+                    "event": {
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e"
+                    },
+                    "room": {
+                        "href": "/06b1179c-e29a-43f6-8d93-f7f533430017"
+                    }
+                },
+                "id": "d5877f8b-df52-429d-a808-c07d0e89357b"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/e2bbead3-8446-46c0-9d44-85a4e8466065"
+                    },
+                    "event": {
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0"
+                    },
+                    "room": {
+                        "href": "/06b1179c-e29a-43f6-8d93-f7f533430053"
+                    }
+                },
+                "id": "e2bbead3-8446-46c0-9d44-85a4e8466065"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/12a3eb64-8441-4bc5-928a-a418a9081fda"
+                    },
+                    "event": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d"
+                    },
+                    "room": {
+                        "href": "/06b1179c-e29a-43f6-8d93-f7f533430053"
+                    }
+                },
+                "id": "12a3eb64-8441-4bc5-928a-a418a9081fda"
             }
         ],
         "rooms": [
@@ -2154,33 +1966,6 @@
                     }
                 },
                 "id": "06b1179c-e29a-43f6-8d93-f7f533430017"
-            },
-            {
-                "name": "Р137(гибридный формат)",
-                "nameShort": "Р137",
-                "building": {
-                    "id": "62911fd6-02f2-4e5f-a453-801ccba0d019",
-                    "name": "Мира, 32",
-                    "nameShort": "Мира, 32",
-                    "address": "Мира, 32",
-                    "displayOrder": 1000
-                },
-                "projectorAvailable": false,
-                "totalCapacity": 35,
-                "workingCapacity": 35,
-                "deletedAtUtc": null,
-                "_links": {
-                    "self": {
-                        "href": "/06b1179c-e29a-43f6-8d93-f7f533430505"
-                    },
-                    "type": {
-                        "href": "/ccaff40e-f898-47ac-ae5b-865ea2203002"
-                    },
-                    "building": {
-                        "href": "/62911fd6-02f2-4e5f-a453-801ccba0d019"
-                    }
-                },
-                "id": "06b1179c-e29a-43f6-8d93-f7f533430505"
             },
             {
                 "name": "Р215(гибридный формат)",
@@ -2267,420 +2052,399 @@
         ],
         "event-teams": [
             {
-                "eventId": "1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5",
-                "size": 1338,
-                "_links": {
-                    "self": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5/team"
-                    },
-                    "event": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5"
-                    }
-                }
-            },
-            {
-                "eventId": "1bb01a0b-97ea-4c6a-942c-a82438bc6960",
+                "eventId": "114e867c-b8e1-4b5d-a640-625eadcafbcb",
                 "size": 43,
                 "_links": {
                     "self": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960/team"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb/team"
                     },
                     "event": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb"
                     }
                 }
             },
             {
-                "eventId": "1e3c6470-f96a-4bf7-86fc-76d3f9733c71",
+                "eventId": "23a4fcc3-da84-4cb6-b4b1-15e0767c8003",
+                "size": 43,
+                "_links": {
+                    "self": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003/team"
+                    },
+                    "event": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
+                    }
+                }
+            },
+            {
+                "eventId": "3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d",
                 "size": 21,
                 "_links": {
                     "self": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71/team"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d/team"
                     },
                     "event": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d"
                     }
                 }
             },
             {
-                "eventId": "3539e232-cb09-45fa-9396-e2dbd7f82513",
-                "size": 523,
+                "eventId": "4c7c6069-e0f6-4b61-a4c8-ee28b4205e17",
+                "size": 1353,
                 "_links": {
                     "self": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513/team"
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17/team"
                     },
                     "event": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513"
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17"
                     }
                 }
             },
             {
-                "eventId": "543b481a-dca5-46e4-bf02-f4434c54a5d2",
-                "size": 43,
-                "_links": {
-                    "self": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2/team"
-                    },
-                    "event": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2"
-                    }
-                }
-            },
-            {
-                "eventId": "70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0",
-                "size": 29,
-                "_links": {
-                    "self": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0/team"
-                    },
-                    "event": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0"
-                    }
-                }
-            },
-            {
-                "eventId": "71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e",
-                "size": 16,
-                "_links": {
-                    "self": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e/team"
-                    },
-                    "event": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e"
-                    }
-                }
-            },
-            {
-                "eventId": "7e59c436-2cd0-408d-bbef-12148d2c7f4f",
-                "size": 21,
-                "_links": {
-                    "self": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f/team"
-                    },
-                    "event": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f"
-                    }
-                }
-            },
-            {
-                "eventId": "897ca9dd-e107-4020-a682-fa480b21a424",
-                "size": 472,
-                "_links": {
-                    "self": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424/team"
-                    },
-                    "event": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424"
-                    }
-                }
-            },
-            {
-                "eventId": "9faa3d8e-f8be-42ab-8d0e-fd456dc8f724",
-                "size": 43,
-                "_links": {
-                    "self": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724/team"
-                    },
-                    "event": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
-                    }
-                }
-            },
-            {
-                "eventId": "b87c1977-09be-4649-ae5b-396a197a0e59",
-                "size": 16,
-                "_links": {
-                    "self": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59/team"
-                    },
-                    "event": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59"
-                    }
-                }
-            },
-            {
-                "eventId": "cd99f915-09e9-4230-bb13-6bc4c2b7fdf9",
-                "size": 43,
-                "_links": {
-                    "self": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9/team"
-                    },
-                    "event": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
-                    }
-                }
-            },
-            {
-                "eventId": "de435374-16a9-4266-b5b6-4d620cd6d356",
-                "size": 43,
-                "_links": {
-                    "self": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356/team"
-                    },
-                    "event": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356"
-                    }
-                }
-            },
-            {
-                "eventId": "ea4101cb-e353-434b-b55b-63eeb79d1b46",
+                "eventId": "534ada80-259a-4c49-9c8a-5e2d9ae060f1",
                 "size": 1338,
                 "_links": {
                     "self": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46/team"
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1/team"
                     },
                     "event": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46"
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1"
                     }
                 }
             },
             {
-                "eventId": "ffc1dc8f-79c8-46e8-9d6d-e596525d9912",
+                "eventId": "56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e",
+                "size": 16,
+                "_links": {
+                    "self": {
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e/team"
+                    },
+                    "event": {
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e"
+                    }
+                }
+            },
+            {
+                "eventId": "5944f4db-17f5-42e9-9806-d0cbf26bf4a2",
+                "size": 525,
+                "_links": {
+                    "self": {
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2/team"
+                    },
+                    "event": {
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2"
+                    }
+                }
+            },
+            {
+                "eventId": "8a73eaf2-191a-4125-9566-1b9c1593c6c0",
+                "size": 43,
+                "_links": {
+                    "self": {
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0/team"
+                    },
+                    "event": {
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0"
+                    }
+                }
+            },
+            {
+                "eventId": "9bc277ab-63b5-49e1-b270-4c0f0f0d93a4",
+                "size": 16,
+                "_links": {
+                    "self": {
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4/team"
+                    },
+                    "event": {
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4"
+                    }
+                }
+            },
+            {
+                "eventId": "b42b6634-549b-479e-a3af-fac17b11b500",
+                "size": 21,
+                "_links": {
+                    "self": {
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500/team"
+                    },
+                    "event": {
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500"
+                    }
+                }
+            },
+            {
+                "eventId": "c1d31361-78f1-4d78-a1b8-076c864a7c58",
+                "size": 43,
+                "_links": {
+                    "self": {
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58/team"
+                    },
+                    "event": {
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58"
+                    }
+                }
+            },
+            {
+                "eventId": "c42d740d-0b84-4fff-a7e1-c595ce4e5cac",
                 "size": 534,
                 "_links": {
                     "self": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912/team"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac/team"
                     },
                     "event": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac"
+                    }
+                }
+            },
+            {
+                "eventId": "cf9ee7eb-b577-4782-980f-a9ab826163f7",
+                "size": 43,
+                "_links": {
+                    "self": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7/team"
+                    },
+                    "event": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7"
+                    }
+                }
+            },
+            {
+                "eventId": "dcaf1ee0-646f-4e87-bfb9-022966188d7d",
+                "size": 43,
+                "_links": {
+                    "self": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d/team"
+                    },
+                    "event": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d"
                     }
                 }
             }
         ],
         "event-organizers": [
             {
-                "eventId": "1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5",
+                "eventId": "114e867c-b8e1-4b5d-a640-625eadcafbcb",
                 "_links": {
                     "self": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5/organizers"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb/organizers"
                     },
                     "event": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5"
-                    },
-                    "event-attendees": {
-                        "href": "/4862e2ef-0894-4257-884c-795addbf27c7"
-                    }
-                }
-            },
-            {
-                "eventId": "1bb01a0b-97ea-4c6a-942c-a82438bc6960",
-                "_links": {
-                    "self": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960/organizers"
-                    },
-                    "event": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb"
                     },
                     "event-attendees": [
                         {
-                            "href": "/2ff4b72f-24b8-49e2-bdbd-c4b3bdb03365"
+                            "href": "/93527ae8-d5e3-47d3-aa74-2e2305908255"
                         },
                         {
-                            "href": "/830ec067-7895-4181-904c-d4eb7674b5a8"
+                            "href": "/4ef41141-ac0d-494f-baad-5a72a8f68092"
                         }
                     ]
                 }
             },
             {
-                "eventId": "1e3c6470-f96a-4bf7-86fc-76d3f9733c71",
+                "eventId": "23a4fcc3-da84-4cb6-b4b1-15e0767c8003",
                 "_links": {
                     "self": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71/organizers"
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003/organizers"
                     },
                     "event": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71"
-                    },
-                    "event-attendees": {
-                        "href": "/ebc09923-5173-49f1-9e62-eff5474bb570"
-                    }
-                }
-            },
-            {
-                "eventId": "3539e232-cb09-45fa-9396-e2dbd7f82513",
-                "_links": {
-                    "self": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513/organizers"
-                    },
-                    "event": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513"
-                    },
-                    "event-attendees": {
-                        "href": "/6874bd52-e09c-4752-8c1b-a2d2b340dbcd"
-                    }
-                }
-            },
-            {
-                "eventId": "543b481a-dca5-46e4-bf02-f4434c54a5d2",
-                "_links": {
-                    "self": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2/organizers"
-                    },
-                    "event": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2"
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
                     },
                     "event-attendees": [
                         {
-                            "href": "/d734dc94-c3eb-4e27-be16-f3e170b6ef92"
+                            "href": "/fa7d9469-beb6-4444-a5b8-40c3d7062119"
                         },
                         {
-                            "href": "/407174e8-0b13-4fa8-ac21-a11b45cab5c3"
+                            "href": "/3224ff71-69e3-46eb-8313-ba3f7b7c627f"
                         }
                     ]
                 }
             },
             {
-                "eventId": "70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0",
+                "eventId": "3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d",
                 "_links": {
                     "self": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0/organizers"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d/organizers"
                     },
                     "event": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d"
                     },
                     "event-attendees": {
-                        "href": "/6122c6f4-e650-456a-94fe-5de95a81bd2f"
+                        "href": "/dc4357ce-7a23-425b-949e-2ac42d6c2275"
                     }
                 }
             },
             {
-                "eventId": "71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e",
+                "eventId": "4c7c6069-e0f6-4b61-a4c8-ee28b4205e17",
                 "_links": {
                     "self": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e/organizers"
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17/organizers"
                     },
                     "event": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e"
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17"
                     },
                     "event-attendees": {
-                        "href": "/45558358-a21f-454e-adf5-e779b751c4af"
+                        "href": "/a71f76aa-6fa0-4628-94d2-2389fe4d7f8e"
                     }
                 }
             },
             {
-                "eventId": "7e59c436-2cd0-408d-bbef-12148d2c7f4f",
+                "eventId": "534ada80-259a-4c49-9c8a-5e2d9ae060f1",
                 "_links": {
                     "self": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f/organizers"
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1/organizers"
                     },
                     "event": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f"
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1"
                     },
                     "event-attendees": {
-                        "href": "/257c5fdb-20a8-4319-9ec6-3cea2ac5ea67"
+                        "href": "/36fdd7f8-cb02-4d2f-a82a-c6f228460ce8"
                     }
                 }
             },
             {
-                "eventId": "897ca9dd-e107-4020-a682-fa480b21a424",
+                "eventId": "56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e",
                 "_links": {
                     "self": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424/organizers"
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e/organizers"
                     },
                     "event": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424"
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e"
                     },
                     "event-attendees": {
-                        "href": "/6eda438e-22b3-4daf-af4a-a4a4e411a3de"
+                        "href": "/57adbf3b-1ed4-407e-92a6-bafcb8eaf543"
                     }
                 }
             },
             {
-                "eventId": "9faa3d8e-f8be-42ab-8d0e-fd456dc8f724",
+                "eventId": "5944f4db-17f5-42e9-9806-d0cbf26bf4a2",
                 "_links": {
                     "self": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724/organizers"
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2/organizers"
                     },
                     "event": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2"
+                    },
+                    "event-attendees": {
+                        "href": "/0d585045-5803-4dbf-a4c9-b7669cc56f7d"
+                    }
+                }
+            },
+            {
+                "eventId": "8a73eaf2-191a-4125-9566-1b9c1593c6c0",
+                "_links": {
+                    "self": {
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0/organizers"
+                    },
+                    "event": {
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0"
                     },
                     "event-attendees": [
                         {
-                            "href": "/2aab91b9-3628-433f-858f-574a5c829873"
+                            "href": "/f9dae0c1-f612-476f-89eb-08d7c615286b"
                         },
                         {
-                            "href": "/6b539082-3c6a-4fb9-b1eb-fd7f12ce0741"
+                            "href": "/2df16c96-a6b5-4b91-a364-3ea1c63bb2dc"
                         }
                     ]
                 }
             },
             {
-                "eventId": "b87c1977-09be-4649-ae5b-396a197a0e59",
+                "eventId": "9bc277ab-63b5-49e1-b270-4c0f0f0d93a4",
                 "_links": {
                     "self": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59/organizers"
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4/organizers"
                     },
                     "event": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59"
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4"
                     },
                     "event-attendees": {
-                        "href": "/4a1e3c4b-f3e3-4c2c-ac89-f13054fbf143"
+                        "href": "/20501e80-6541-4143-b28b-728cea830dfc"
                     }
                 }
             },
             {
-                "eventId": "cd99f915-09e9-4230-bb13-6bc4c2b7fdf9",
+                "eventId": "b42b6634-549b-479e-a3af-fac17b11b500",
                 "_links": {
                     "self": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9/organizers"
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500/organizers"
                     },
                     "event": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500"
+                    },
+                    "event-attendees": {
+                        "href": "/e9592537-984a-43e6-9829-6a40f734efcf"
+                    }
+                }
+            },
+            {
+                "eventId": "c1d31361-78f1-4d78-a1b8-076c864a7c58",
+                "_links": {
+                    "self": {
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58/organizers"
+                    },
+                    "event": {
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58"
                     },
                     "event-attendees": [
                         {
-                            "href": "/44fbea22-bdbe-45f7-b0a3-23b7fd5ff776"
+                            "href": "/0e4cf40f-aa2a-4fbf-b0ec-d12c3a76220d"
                         },
                         {
-                            "href": "/5bd5269e-2e29-4f6d-bf46-73c5ab54c3b9"
+                            "href": "/f900855b-3002-4736-b766-10fd1edc73ff"
                         }
                     ]
                 }
             },
             {
-                "eventId": "de435374-16a9-4266-b5b6-4d620cd6d356",
+                "eventId": "c42d740d-0b84-4fff-a7e1-c595ce4e5cac",
                 "_links": {
                     "self": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356/organizers"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac/organizers"
                     },
                     "event": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac"
+                    },
+                    "event-attendees": {
+                        "href": "/71518788-80d4-445a-9869-cc4a85aaa99a"
+                    }
+                }
+            },
+            {
+                "eventId": "cf9ee7eb-b577-4782-980f-a9ab826163f7",
+                "_links": {
+                    "self": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7/organizers"
+                    },
+                    "event": {
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7"
                     },
                     "event-attendees": [
                         {
-                            "href": "/d4ebc7b3-e2b1-40f9-98f8-8cd7420b8ea5"
+                            "href": "/cfe833e7-d32e-4d30-824e-8721f5b5fbc1"
                         },
                         {
-                            "href": "/2e63668a-0388-40df-8a27-5f5f7c93724e"
+                            "href": "/a1b4ba9f-2b65-42bd-80d1-eeaa91c02141"
                         }
                     ]
                 }
             },
             {
-                "eventId": "ea4101cb-e353-434b-b55b-63eeb79d1b46",
+                "eventId": "dcaf1ee0-646f-4e87-bfb9-022966188d7d",
                 "_links": {
                     "self": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46/organizers"
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d/organizers"
                     },
                     "event": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46"
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d"
                     },
-                    "event-attendees": {
-                        "href": "/0f8f75e0-7f72-470e-8522-7e2ca8763440"
-                    }
-                }
-            },
-            {
-                "eventId": "ffc1dc8f-79c8-46e8-9d6d-e596525d9912",
-                "_links": {
-                    "self": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912/organizers"
-                    },
-                    "event": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912"
-                    },
-                    "event-attendees": {
-                        "href": "/8eb7364e-ef23-4707-9d5e-4e67573fb201"
-                    }
+                    "event-attendees": [
+                        {
+                            "href": "/91eb508b-b38a-4274-828c-a55fb47611de"
+                        },
+                        {
+                            "href": "/2ae078a8-0f5a-4dd6-9f94-e2677f56f37c"
+                        }
+                    ]
                 }
             }
         ],
@@ -21738,10 +21502,10 @@
             {
                 "_links": {
                     "self": {
-                        "href": "/d734dc94-c3eb-4e27-be16-f3e170b6ef92"
+                        "href": "/cfe833e7-d32e-4d30-824e-8721f5b5fbc1"
                     },
                     "event": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2"
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7"
                     },
                     "person": {
                         "href": "/160965f4-4305-4cd4-81a2-455dabbafd78"
@@ -21750,15 +21514,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "d734dc94-c3eb-4e27-be16-f3e170b6ef92"
+                "id": "cfe833e7-d32e-4d30-824e-8721f5b5fbc1"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/407174e8-0b13-4fa8-ac21-a11b45cab5c3"
+                        "href": "/a1b4ba9f-2b65-42bd-80d1-eeaa91c02141"
                     },
                     "event": {
-                        "href": "/543b481a-dca5-46e4-bf02-f4434c54a5d2"
+                        "href": "/cf9ee7eb-b577-4782-980f-a9ab826163f7"
                     },
                     "person": {
                         "href": "/4CB0C0E3-2A06-11E1-B174-00259030B74F"
@@ -21767,32 +21531,32 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "407174e8-0b13-4fa8-ac21-a11b45cab5c3"
+                "id": "a1b4ba9f-2b65-42bd-80d1-eeaa91c02141"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/2ff4b72f-24b8-49e2-bdbd-c4b3bdb03365"
+                        "href": "/93527ae8-d5e3-47d3-aa74-2e2305908255"
                     },
                     "event": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb"
                     },
                     "person": {
-                        "href": "/4CB0C104-2A06-11E1-B174-00259030B74F"
+                        "href": "/4CB0C0E3-2A06-11E1-B174-00259030B74F"
                     },
                     "event-attendee-role": {
                         "href": "/TEACH"
                     }
                 },
-                "id": "2ff4b72f-24b8-49e2-bdbd-c4b3bdb03365"
+                "id": "93527ae8-d5e3-47d3-aa74-2e2305908255"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/d4ebc7b3-e2b1-40f9-98f8-8cd7420b8ea5"
+                        "href": "/4ef41141-ac0d-494f-baad-5a72a8f68092"
                     },
                     "event": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356"
+                        "href": "/114e867c-b8e1-4b5d-a640-625eadcafbcb"
                     },
                     "person": {
                         "href": "/160965f4-4305-4cd4-81a2-455dabbafd78"
@@ -21801,15 +21565,49 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "d4ebc7b3-e2b1-40f9-98f8-8cd7420b8ea5"
+                "id": "4ef41141-ac0d-494f-baad-5a72a8f68092"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/2e63668a-0388-40df-8a27-5f5f7c93724e"
+                        "href": "/0e4cf40f-aa2a-4fbf-b0ec-d12c3a76220d"
                     },
                     "event": {
-                        "href": "/de435374-16a9-4266-b5b6-4d620cd6d356"
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58"
+                    },
+                    "person": {
+                        "href": "/4CB0C104-2A06-11E1-B174-00259030B74F"
+                    },
+                    "event-attendee-role": {
+                        "href": "/TEACH"
+                    }
+                },
+                "id": "0e4cf40f-aa2a-4fbf-b0ec-d12c3a76220d"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/fa7d9469-beb6-4444-a5b8-40c3d7062119"
+                    },
+                    "event": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
+                    },
+                    "person": {
+                        "href": "/160965f4-4305-4cd4-81a2-455dabbafd78"
+                    },
+                    "event-attendee-role": {
+                        "href": "/TEACH"
+                    }
+                },
+                "id": "fa7d9469-beb6-4444-a5b8-40c3d7062119"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/3224ff71-69e3-46eb-8313-ba3f7b7c627f"
+                    },
+                    "event": {
+                        "href": "/23a4fcc3-da84-4cb6-b4b1-15e0767c8003"
                     },
                     "person": {
                         "href": "/4CB0C0E3-2A06-11E1-B174-00259030B74F"
@@ -21818,15 +21616,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "2e63668a-0388-40df-8a27-5f5f7c93724e"
+                "id": "3224ff71-69e3-46eb-8313-ba3f7b7c627f"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/44fbea22-bdbe-45f7-b0a3-23b7fd5ff776"
+                        "href": "/91eb508b-b38a-4274-828c-a55fb47611de"
                     },
                     "event": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d"
                     },
                     "person": {
                         "href": "/4CB0C104-2A06-11E1-B174-00259030B74F"
@@ -21835,15 +21633,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "44fbea22-bdbe-45f7-b0a3-23b7fd5ff776"
+                "id": "91eb508b-b38a-4274-828c-a55fb47611de"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/2aab91b9-3628-433f-858f-574a5c829873"
+                        "href": "/f9dae0c1-f612-476f-89eb-08d7c615286b"
                     },
                     "event": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0"
                     },
                     "person": {
                         "href": "/4CB0C104-2A06-11E1-B174-00259030B74F"
@@ -21852,15 +21650,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "2aab91b9-3628-433f-858f-574a5c829873"
+                "id": "f9dae0c1-f612-476f-89eb-08d7c615286b"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/ebc09923-5173-49f1-9e62-eff5474bb570"
+                        "href": "/dc4357ce-7a23-425b-949e-2ac42d6c2275"
                     },
                     "event": {
-                        "href": "/1e3c6470-f96a-4bf7-86fc-76d3f9733c71"
+                        "href": "/3ddd70d7-a1b9-47a3-a00c-8881b5dfb51d"
                     },
                     "person": {
                         "href": "/69EF14DC-2A07-11E1-B174-00259030B74F"
@@ -21869,15 +21667,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "ebc09923-5173-49f1-9e62-eff5474bb570"
+                "id": "dc4357ce-7a23-425b-949e-2ac42d6c2275"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/257c5fdb-20a8-4319-9ec6-3cea2ac5ea67"
+                        "href": "/e9592537-984a-43e6-9829-6a40f734efcf"
                     },
                     "event": {
-                        "href": "/7e59c436-2cd0-408d-bbef-12148d2c7f4f"
+                        "href": "/b42b6634-549b-479e-a3af-fac17b11b500"
                     },
                     "person": {
                         "href": "/69EF14DC-2A07-11E1-B174-00259030B74F"
@@ -21886,15 +21684,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "257c5fdb-20a8-4319-9ec6-3cea2ac5ea67"
+                "id": "e9592537-984a-43e6-9829-6a40f734efcf"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/0f8f75e0-7f72-470e-8522-7e2ca8763440"
+                        "href": "/36fdd7f8-cb02-4d2f-a82a-c6f228460ce8"
                     },
                     "event": {
-                        "href": "/ea4101cb-e353-434b-b55b-63eeb79d1b46"
+                        "href": "/534ada80-259a-4c49-9c8a-5e2d9ae060f1"
                     },
                     "person": {
                         "href": "/9F3F21F7-2A04-11E1-B174-00259030B74F"
@@ -21903,100 +21701,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "0f8f75e0-7f72-470e-8522-7e2ca8763440"
+                "id": "36fdd7f8-cb02-4d2f-a82a-c6f228460ce8"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/6874bd52-e09c-4752-8c1b-a2d2b340dbcd"
+                        "href": "/a71f76aa-6fa0-4628-94d2-2389fe4d7f8e"
                     },
                     "event": {
-                        "href": "/3539e232-cb09-45fa-9396-e2dbd7f82513"
-                    },
-                    "person": {
-                        "href": "/04057336-B59E-11E8-9D4C-248A07D7BFE1"
-                    },
-                    "event-attendee-role": {
-                        "href": "/TEACH"
-                    }
-                },
-                "id": "6874bd52-e09c-4752-8c1b-a2d2b340dbcd"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/4a1e3c4b-f3e3-4c2c-ac89-f13054fbf143"
-                    },
-                    "event": {
-                        "href": "/b87c1977-09be-4649-ae5b-396a197a0e59"
-                    },
-                    "person": {
-                        "href": "/72ebbf82-16b2-11ec-9da4-248a07d7bfe1"
-                    },
-                    "event-attendee-role": {
-                        "href": "/TEACH"
-                    }
-                },
-                "id": "4a1e3c4b-f3e3-4c2c-ac89-f13054fbf143"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/6eda438e-22b3-4daf-af4a-a4a4e411a3de"
-                    },
-                    "event": {
-                        "href": "/897ca9dd-e107-4020-a682-fa480b21a424"
-                    },
-                    "person": {
-                        "href": "/531DAD45-2A07-11E1-B174-00259030B74F"
-                    },
-                    "event-attendee-role": {
-                        "href": "/TEACH"
-                    }
-                },
-                "id": "6eda438e-22b3-4daf-af4a-a4a4e411a3de"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/45558358-a21f-454e-adf5-e779b751c4af"
-                    },
-                    "event": {
-                        "href": "/71698ea8-2a1d-4bc2-86e3-4e6a9cbaf98e"
-                    },
-                    "person": {
-                        "href": "/72ebbf82-16b2-11ec-9da4-248a07d7bfe1"
-                    },
-                    "event-attendee-role": {
-                        "href": "/TEACH"
-                    }
-                },
-                "id": "45558358-a21f-454e-adf5-e779b751c4af"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/6122c6f4-e650-456a-94fe-5de95a81bd2f"
-                    },
-                    "event": {
-                        "href": "/70cc0e6c-aa81-4da6-a7c7-e4bf9ff4a2a0"
-                    },
-                    "person": {
-                        "href": "/42C08DD0-2A07-11E1-B174-00259030B74F"
-                    },
-                    "event-attendee-role": {
-                        "href": "/TEACH"
-                    }
-                },
-                "id": "6122c6f4-e650-456a-94fe-5de95a81bd2f"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "/4862e2ef-0894-4257-884c-795addbf27c7"
-                    },
-                    "event": {
-                        "href": "/1b9ef4d3-f99c-4a2c-90ff-5d19f46a98e5"
+                        "href": "/4c7c6069-e0f6-4b61-a4c8-ee28b4205e17"
                     },
                     "person": {
                         "href": "/9F3F21F7-2A04-11E1-B174-00259030B74F"
@@ -22005,15 +21718,49 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "4862e2ef-0894-4257-884c-795addbf27c7"
+                "id": "a71f76aa-6fa0-4628-94d2-2389fe4d7f8e"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/8eb7364e-ef23-4707-9d5e-4e67573fb201"
+                        "href": "/57adbf3b-1ed4-407e-92a6-bafcb8eaf543"
                     },
                     "event": {
-                        "href": "/ffc1dc8f-79c8-46e8-9d6d-e596525d9912"
+                        "href": "/56ec6d2d-6c28-4ffe-89c3-7e4d8af95b2e"
+                    },
+                    "person": {
+                        "href": "/72ebbf82-16b2-11ec-9da4-248a07d7bfe1"
+                    },
+                    "event-attendee-role": {
+                        "href": "/TEACH"
+                    }
+                },
+                "id": "57adbf3b-1ed4-407e-92a6-bafcb8eaf543"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/20501e80-6541-4143-b28b-728cea830dfc"
+                    },
+                    "event": {
+                        "href": "/9bc277ab-63b5-49e1-b270-4c0f0f0d93a4"
+                    },
+                    "person": {
+                        "href": "/72ebbf82-16b2-11ec-9da4-248a07d7bfe1"
+                    },
+                    "event-attendee-role": {
+                        "href": "/TEACH"
+                    }
+                },
+                "id": "20501e80-6541-4143-b28b-728cea830dfc"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/0d585045-5803-4dbf-a4c9-b7669cc56f7d"
+                    },
+                    "event": {
+                        "href": "/5944f4db-17f5-42e9-9806-d0cbf26bf4a2"
                     },
                     "person": {
                         "href": "/04057336-B59E-11E8-9D4C-248A07D7BFE1"
@@ -22022,15 +21769,32 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "8eb7364e-ef23-4707-9d5e-4e67573fb201"
+                "id": "0d585045-5803-4dbf-a4c9-b7669cc56f7d"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/830ec067-7895-4181-904c-d4eb7674b5a8"
+                        "href": "/71518788-80d4-445a-9869-cc4a85aaa99a"
                     },
                     "event": {
-                        "href": "/1bb01a0b-97ea-4c6a-942c-a82438bc6960"
+                        "href": "/c42d740d-0b84-4fff-a7e1-c595ce4e5cac"
+                    },
+                    "person": {
+                        "href": "/04057336-B59E-11E8-9D4C-248A07D7BFE1"
+                    },
+                    "event-attendee-role": {
+                        "href": "/TEACH"
+                    }
+                },
+                "id": "71518788-80d4-445a-9869-cc4a85aaa99a"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/2ae078a8-0f5a-4dd6-9f94-e2677f56f37c"
+                    },
+                    "event": {
+                        "href": "/dcaf1ee0-646f-4e87-bfb9-022966188d7d"
                     },
                     "person": {
                         "href": "/6EE72B4C-389B-11E4-816E-00259030B74E"
@@ -22039,15 +21803,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "830ec067-7895-4181-904c-d4eb7674b5a8"
+                "id": "2ae078a8-0f5a-4dd6-9f94-e2677f56f37c"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/5bd5269e-2e29-4f6d-bf46-73c5ab54c3b9"
+                        "href": "/2df16c96-a6b5-4b91-a364-3ea1c63bb2dc"
                     },
                     "event": {
-                        "href": "/cd99f915-09e9-4230-bb13-6bc4c2b7fdf9"
+                        "href": "/8a73eaf2-191a-4125-9566-1b9c1593c6c0"
                     },
                     "person": {
                         "href": "/6EE72B4C-389B-11E4-816E-00259030B74E"
@@ -22056,15 +21820,15 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "5bd5269e-2e29-4f6d-bf46-73c5ab54c3b9"
+                "id": "2df16c96-a6b5-4b91-a364-3ea1c63bb2dc"
             },
             {
                 "_links": {
                     "self": {
-                        "href": "/6b539082-3c6a-4fb9-b1eb-fd7f12ce0741"
+                        "href": "/f900855b-3002-4736-b766-10fd1edc73ff"
                     },
                     "event": {
-                        "href": "/9faa3d8e-f8be-42ab-8d0e-fd456dc8f724"
+                        "href": "/c1d31361-78f1-4d78-a1b8-076c864a7c58"
                     },
                     "person": {
                         "href": "/6EE72B4C-389B-11E4-816E-00259030B74E"
@@ -22073,45 +21837,21 @@
                         "href": "/TEACH"
                     }
                 },
-                "id": "6b539082-3c6a-4fb9-b1eb-fd7f12ce0741"
+                "id": "f900855b-3002-4736-b766-10fd1edc73ff"
             }
         ],
         "persons": [
             {
-                "lastName": "Васина",
-                "firstName": "Вероника",
-                "middleName": "Николаевна",
-                "fullName": "Васина Вероника Николаевна",
+                "lastName": "Шадрин",
+                "firstName": "Денис",
+                "middleName": "Борисович",
+                "fullName": "Шадрин Денис Борисович",
                 "_links": {
                     "self": {
-                        "href": "/04057336-B59E-11E8-9D4C-248A07D7BFE1"
+                        "href": "/69EF14DC-2A07-11E1-B174-00259030B74F"
                     }
                 },
-                "id": "04057336-B59E-11E8-9D4C-248A07D7BFE1"
-            },
-            {
-                "lastName": "Герасимов",
-                "firstName": "Максим",
-                "middleName": null,
-                "fullName": "Герасимов Максим",
-                "_links": {
-                    "self": {
-                        "href": "/160965f4-4305-4cd4-81a2-455dabbafd78"
-                    }
-                },
-                "id": "160965f4-4305-4cd4-81a2-455dabbafd78"
-            },
-            {
-                "lastName": "Якушев",
-                "firstName": "Виктор",
-                "middleName": "Николаевич",
-                "fullName": "Якушев Виктор Николаевич",
-                "_links": {
-                    "self": {
-                        "href": "/42C08DD0-2A07-11E1-B174-00259030B74F"
-                    }
-                },
-                "id": "42C08DD0-2A07-11E1-B174-00259030B74F"
+                "id": "69EF14DC-2A07-11E1-B174-00259030B74F"
             },
             {
                 "lastName": "Чащина",
@@ -22138,28 +21878,40 @@
                 "id": "4CB0C104-2A06-11E1-B174-00259030B74F"
             },
             {
-                "lastName": "Ремизов",
-                "firstName": "Дмитрий",
-                "middleName": "Владимирович",
-                "fullName": "Ремизов Дмитрий Владимирович",
+                "lastName": "Куц",
+                "firstName": "Мария",
+                "middleName": "Петровна",
+                "fullName": "Куц Мария Петровна",
                 "_links": {
                     "self": {
-                        "href": "/531DAD45-2A07-11E1-B174-00259030B74F"
+                        "href": "/72ebbf82-16b2-11ec-9da4-248a07d7bfe1"
                     }
                 },
-                "id": "531DAD45-2A07-11E1-B174-00259030B74F"
+                "id": "72ebbf82-16b2-11ec-9da4-248a07d7bfe1"
             },
             {
-                "lastName": "Шадрин",
-                "firstName": "Денис",
-                "middleName": "Борисович",
-                "fullName": "Шадрин Денис Борисович",
+                "lastName": "Герасимов",
+                "firstName": "Максим",
+                "middleName": null,
+                "fullName": "Герасимов Максим",
                 "_links": {
                     "self": {
-                        "href": "/69EF14DC-2A07-11E1-B174-00259030B74F"
+                        "href": "/160965f4-4305-4cd4-81a2-455dabbafd78"
                     }
                 },
-                "id": "69EF14DC-2A07-11E1-B174-00259030B74F"
+                "id": "160965f4-4305-4cd4-81a2-455dabbafd78"
+            },
+            {
+                "lastName": "Мусина",
+                "firstName": "Ольга",
+                "middleName": "Ивановна",
+                "fullName": "Мусина Ольга Ивановна",
+                "_links": {
+                    "self": {
+                        "href": "/9F3F21F7-2A04-11E1-B174-00259030B74F"
+                    }
+                },
+                "id": "9F3F21F7-2A04-11E1-B174-00259030B74F"
             },
             {
                 "lastName": "Кудряшова",
@@ -22174,34 +21926,22 @@
                 "id": "6EE72B4C-389B-11E4-816E-00259030B74E"
             },
             {
-                "lastName": "Куц",
-                "firstName": "Мария",
-                "middleName": "Петровна",
-                "fullName": "Куц Мария Петровна",
+                "lastName": "Васина",
+                "firstName": "Вероника",
+                "middleName": "Николаевна",
+                "fullName": "Васина Вероника Николаевна",
                 "_links": {
                     "self": {
-                        "href": "/72ebbf82-16b2-11ec-9da4-248a07d7bfe1"
+                        "href": "/04057336-B59E-11E8-9D4C-248A07D7BFE1"
                     }
                 },
-                "id": "72ebbf82-16b2-11ec-9da4-248a07d7bfe1"
-            },
-            {
-                "lastName": "Мусина",
-                "firstName": "Ольга",
-                "middleName": "Ивановна",
-                "fullName": "Мусина Ольга Ивановна",
-                "_links": {
-                    "self": {
-                        "href": "/9F3F21F7-2A04-11E1-B174-00259030B74F"
-                    }
-                },
-                "id": "9F3F21F7-2A04-11E1-B174-00259030B74F"
+                "id": "04057336-B59E-11E8-9D4C-248A07D7BFE1"
             }
         ]
     },
     "page": {
         "size": 500,
-        "totalElements": 15,
+        "totalElements": 14,
         "totalPages": 1,
         "number": 0
     }
